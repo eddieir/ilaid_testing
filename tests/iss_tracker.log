@@ -1,0 +1,620 @@
+2024-11-24 14:41:55,845 - INFO - API responded in 0.00 seconds.
+2024-11-24 14:41:55,845 - DEBUG - Received ISS position: latitude=51.5074, longitude=-0.1278.
+2024-11-24 14:41:55,845 - DEBUG - Calculated distance: 343.55606034104153 km between (51.5074, -0.1278) and (48.8566, 2.3522).
+2024-11-24 14:41:55,846 - INFO - Results saved to test_results.json.
+2024-11-24 14:43:58,658 - ERROR - Error fetching ISS position: API failure
+2024-11-24 14:43:58,658 - INFO - API responded in 0.00 seconds.
+2024-11-24 14:43:58,658 - DEBUG - Received ISS position: latitude=51.5074, longitude=-0.1278.
+2024-11-24 14:43:58,658 - DEBUG - Calculated distance: 343.55606034104153 km between (51.5074, -0.1278) and (48.8566, 2.3522).
+2024-11-24 14:43:58,659 - ERROR - Error saving results to readonly_test_results.json: [Errno 13] Permission denied: 'readonly_test_results.json'
+2024-11-24 14:43:58,660 - INFO - Results saved to test_results.json.
+2024-11-24 14:43:58,661 - INFO - Starting ISS speed tracking.
+2024-11-24 14:43:58,661 - DEBUG - Calculated distance: 0.013097411442194635 km between (51.5074, -0.1278) and (51.5075, -0.1277).
+2024-11-24 14:43:58,661 - INFO - Recorded ISS data: {'timestamp': 1624025660, 'message': 'success', 'iss_position': {'latitude': '51.5075', 'longitude': '-0.1277'}}
+2024-11-24 14:43:58,661 - INFO - Starting ISS speed tracking.
+2024-11-24 14:43:58,661 - INFO - Results saved to iss_speed_results.json.
+2024-11-24 14:43:58,661 - DEBUG - Calculated distance: 0.013097411442194635 km between (51.5074, -0.1278) and (51.5075, -0.1277).
+2024-11-24 14:43:58,661 - INFO - Recorded ISS data: {'timestamp': 1624025660, 'message': 'success', 'iss_position': {'latitude': '51.5075', 'longitude': '-0.1277'}}
+2024-11-24 14:43:58,662 - INFO - Results saved to iss_speed_results.json.
+2024-11-24 14:43:58,662 - INFO - Starting ISS speed tracking.
+2024-11-24 14:43:58,662 - WARNING - Invalid ISS position. Skipping this poll.
+2024-11-24 14:44:23,797 - ERROR - Error fetching ISS position: API failure
+2024-11-24 14:44:23,797 - INFO - API responded in 0.00 seconds.
+2024-11-24 14:44:23,797 - DEBUG - Received ISS position: latitude=51.5074, longitude=-0.1278.
+2024-11-24 14:44:23,797 - DEBUG - Calculated distance: 343.55606034104153 km between (51.5074, -0.1278) and (48.8566, 2.3522).
+2024-11-24 14:44:23,799 - INFO - Results saved to test_results.json.
+2024-11-24 14:44:23,799 - INFO - Starting ISS speed tracking.
+2024-11-24 14:44:23,799 - DEBUG - Calculated distance: 0.013097411442194635 km between (51.5074, -0.1278) and (51.5075, -0.1277).
+2024-11-24 14:44:23,799 - INFO - Recorded ISS data: {'timestamp': 1624025660, 'message': 'success', 'iss_position': {'latitude': '51.5075', 'longitude': '-0.1277'}}
+2024-11-24 14:44:23,800 - INFO - Starting ISS speed tracking.
+2024-11-24 14:44:23,800 - INFO - Results saved to iss_speed_results.json.
+2024-11-24 14:44:23,800 - DEBUG - Calculated distance: 0.013097411442194635 km between (51.5074, -0.1278) and (51.5075, -0.1277).
+2024-11-24 14:44:23,800 - INFO - Recorded ISS data: {'timestamp': 1624025660, 'message': 'success', 'iss_position': {'latitude': '51.5075', 'longitude': '-0.1277'}}
+2024-11-24 14:44:23,800 - INFO - Results saved to iss_speed_results.json.
+2024-11-24 14:44:23,801 - INFO - Starting ISS speed tracking.
+2024-11-24 14:44:23,801 - WARNING - Invalid ISS position. Skipping this poll.
+2024-11-24 14:47:10,553 - ERROR - Error fetching ISS position: API failure
+2024-11-24 14:47:10,554 - INFO - API responded in 0.00 seconds.
+2024-11-24 14:47:10,554 - DEBUG - Received ISS position: latitude=51.5074, longitude=-0.1278.
+2024-11-24 14:47:10,554 - DEBUG - Calculated distance: 343.55606034104153 km between (51.5074, -0.1278) and (48.8566, 2.3522).
+2024-11-24 14:47:10,556 - INFO - Results saved to test_results.json.
+2024-11-24 14:47:10,556 - INFO - Starting ISS speed tracking.
+2024-11-24 14:47:10,556 - DEBUG - Calculated distance: 0.013097411442194635 km between (51.5074, -0.1278) and (51.5075, -0.1277).
+2024-11-24 14:47:10,556 - INFO - Recorded ISS data: {'timestamp': 1624025660, 'message': 'success', 'iss_position': {'latitude': '51.5075', 'longitude': '-0.1277'}}
+2024-11-24 14:47:10,556 - DEBUG - Calculated distance: 0.013097403414430999 km between (51.5075, -0.1277) and (51.5076, -0.1276).
+2024-11-24 14:47:10,556 - INFO - Recorded ISS data: {'timestamp': 1624025720, 'message': 'success', 'iss_position': {'latitude': '51.5076', 'longitude': '-0.1276'}}
+2024-11-24 14:47:10,557 - INFO - Starting ISS speed tracking.
+2024-11-24 14:47:10,558 - INFO - Results saved to iss_speed_results.json.
+2024-11-24 14:47:10,558 - DEBUG - Calculated distance: 0.013097411442194635 km between (51.5074, -0.1278) and (51.5075, -0.1277).
+2024-11-24 14:47:10,558 - INFO - Recorded ISS data: {'timestamp': 1624025660, 'message': 'success', 'iss_position': {'latitude': '51.5075', 'longitude': '-0.1277'}}
+2024-11-24 14:47:10,558 - INFO - Results saved to iss_speed_results.json.
+2024-11-24 14:47:10,559 - INFO - Starting ISS speed tracking.
+2024-11-24 14:47:10,559 - WARNING - Invalid ISS position. Skipping this poll.
+2024-11-24 14:47:42,830 - ERROR - Error fetching ISS position: API failure
+2024-11-24 14:47:42,831 - INFO - API responded in 0.00 seconds.
+2024-11-24 14:47:42,831 - DEBUG - Received ISS position: latitude=51.5074, longitude=-0.1278.
+2024-11-24 14:47:42,831 - DEBUG - Calculated distance: 343.55606034104153 km between (51.5074, -0.1278) and (48.8566, 2.3522).
+2024-11-24 14:47:42,832 - INFO - Results saved to test_results.json.
+2024-11-24 14:47:42,833 - INFO - Starting ISS speed tracking.
+2024-11-24 14:47:42,833 - DEBUG - Calculated distance: 0.013097411442194635 km between (51.5074, -0.1278) and (51.5075, -0.1277).
+2024-11-24 14:47:42,833 - INFO - Recorded ISS data: {'timestamp': 1624025660, 'message': 'success', 'iss_position': {'latitude': '51.5075', 'longitude': '-0.1277'}}
+2024-11-24 14:47:42,833 - DEBUG - Calculated distance: 0.013097403414430999 km between (51.5075, -0.1277) and (51.5076, -0.1276).
+2024-11-24 14:47:42,833 - INFO - Recorded ISS data: {'timestamp': 1624025720, 'message': 'success', 'iss_position': {'latitude': '51.5076', 'longitude': '-0.1276'}}
+2024-11-24 14:47:42,834 - INFO - Starting ISS speed tracking.
+2024-11-24 14:47:42,834 - INFO - Results saved to iss_speed_results.json.
+2024-11-24 14:47:42,834 - DEBUG - Calculated distance: 0.013097411442194635 km between (51.5074, -0.1278) and (51.5075, -0.1277).
+2024-11-24 14:47:42,834 - INFO - Recorded ISS data: {'timestamp': 1624025660, 'message': 'success', 'iss_position': {'latitude': '51.5075', 'longitude': '-0.1277'}}
+2024-11-24 14:47:42,834 - INFO - Results saved to iss_speed_results.json.
+2024-11-24 14:47:42,835 - INFO - Starting ISS speed tracking.
+2024-11-24 14:47:42,835 - WARNING - Invalid ISS position. Skipping this poll.
+2024-11-24 14:47:52,351 - ERROR - Error fetching ISS position: API failure
+2024-11-24 14:47:52,352 - INFO - API responded in 0.00 seconds.
+2024-11-24 14:47:52,352 - DEBUG - Received ISS position: latitude=51.5074, longitude=-0.1278.
+2024-11-24 14:47:52,352 - DEBUG - Calculated distance: 343.55606034104153 km between (51.5074, -0.1278) and (48.8566, 2.3522).
+2024-11-24 14:47:52,356 - INFO - Results saved to test_results.json.
+2024-11-24 14:47:52,356 - INFO - Starting ISS speed tracking.
+2024-11-24 14:47:52,356 - DEBUG - Calculated distance: 0.013097411442194635 km between (51.5074, -0.1278) and (51.5075, -0.1277).
+2024-11-24 14:47:52,357 - INFO - Recorded ISS data: {'timestamp': 1624025660, 'message': 'success', 'iss_position': {'latitude': '51.5075', 'longitude': '-0.1277'}}
+2024-11-24 14:47:52,357 - DEBUG - Calculated distance: 0.013097403414430999 km between (51.5075, -0.1277) and (51.5076, -0.1276).
+2024-11-24 14:47:52,357 - INFO - Recorded ISS data: {'timestamp': 1624025720, 'message': 'success', 'iss_position': {'latitude': '51.5076', 'longitude': '-0.1276'}}
+2024-11-24 14:47:52,358 - INFO - Starting ISS speed tracking.
+2024-11-24 14:47:52,358 - INFO - Results saved to iss_speed_results.json.
+2024-11-24 14:47:52,358 - DEBUG - Calculated distance: 0.013097411442194635 km between (51.5074, -0.1278) and (51.5075, -0.1277).
+2024-11-24 14:47:52,358 - INFO - Recorded ISS data: {'timestamp': 1624025660, 'message': 'success', 'iss_position': {'latitude': '51.5075', 'longitude': '-0.1277'}}
+2024-11-24 14:47:52,358 - INFO - Results saved to iss_speed_results.json.
+2024-11-24 14:47:52,359 - INFO - Starting ISS speed tracking.
+2024-11-24 14:47:52,359 - WARNING - Invalid ISS position. Skipping this poll.
+2024-11-24 14:48:56,775 - ERROR - Error fetching ISS position: API failure
+2024-11-24 14:48:56,775 - INFO - API responded in 0.00 seconds.
+2024-11-24 14:48:56,776 - DEBUG - Received ISS position: latitude=51.5074, longitude=-0.1278.
+2024-11-24 14:48:56,776 - DEBUG - Calculated distance: 343.55606034104153 km between (51.5074, -0.1278) and (48.8566, 2.3522).
+2024-11-24 14:48:56,777 - INFO - Results saved to test_results.json.
+2024-11-24 14:48:56,778 - INFO - Starting ISS speed tracking.
+2024-11-24 14:48:56,778 - DEBUG - Calculated distance: 0.013097411442194635 km between (51.5074, -0.1278) and (51.5075, -0.1277).
+2024-11-24 14:48:56,778 - INFO - Recorded ISS data: {'timestamp': 1624025660, 'message': 'success', 'iss_position': {'latitude': '51.5075', 'longitude': '-0.1277'}}
+2024-11-24 14:48:56,778 - DEBUG - Calculated distance: 0.013097403414430999 km between (51.5075, -0.1277) and (51.5076, -0.1276).
+2024-11-24 14:48:56,778 - INFO - Recorded ISS data: {'timestamp': 1624025720, 'message': 'success', 'iss_position': {'latitude': '51.5076', 'longitude': '-0.1276'}}
+2024-11-24 14:48:56,778 - INFO - Starting ISS speed tracking.
+2024-11-24 14:48:56,779 - INFO - Results saved to iss_speed_results.json.
+2024-11-24 14:48:56,779 - DEBUG - Calculated distance: 0.013097411442194635 km between (51.5074, -0.1278) and (51.5075, -0.1277).
+2024-11-24 14:48:56,779 - INFO - Recorded ISS data: {'timestamp': 1624025660, 'message': 'success', 'iss_position': {'latitude': '51.5075', 'longitude': '-0.1277'}}
+2024-11-24 14:48:56,779 - INFO - Results saved to iss_speed_results.json.
+2024-11-24 14:48:56,779 - INFO - Starting ISS speed tracking.
+2024-11-24 14:48:56,780 - WARNING - Invalid ISS position. Skipping this poll.
+2024-11-24 14:52:02,570 - ERROR - Error fetching ISS position: API failure
+2024-11-24 14:52:02,571 - INFO - API responded in 0.00 seconds.
+2024-11-24 14:52:02,571 - DEBUG - Received ISS position: latitude=51.5074, longitude=-0.1278.
+2024-11-24 14:52:02,571 - DEBUG - Calculated distance: 343.55606034104153 km between (51.5074, -0.1278) and (48.8566, 2.3522).
+2024-11-24 14:52:02,573 - INFO - Results saved to test_results.json.
+2024-11-24 14:52:02,574 - INFO - Starting ISS speed tracking.
+2024-11-24 14:52:02,574 - INFO - Results saved to iss_speed_results.json.
+2024-11-24 14:52:02,574 - DEBUG - Calculated distance: 0.013097411442194635 km between (51.5074, -0.1278) and (51.5075, -0.1277).
+2024-11-24 14:52:02,575 - INFO - Recorded ISS data: {'timestamp': 1624025660, 'message': 'success', 'iss_position': {'latitude': '51.5075', 'longitude': '-0.1277'}}
+2024-11-24 14:52:02,575 - INFO - Results saved to iss_speed_results.json.
+2024-11-24 14:52:02,576 - INFO - Starting ISS speed tracking.
+2024-11-24 14:52:02,576 - WARNING - Invalid ISS position. Skipping this poll.
+2024-11-24 14:57:27,348 - DEBUG - Calculated distance: 0.0 km between (40.7128, -74.006) and (40.7128, -74.006).
+2024-11-24 14:57:27,349 - DEBUG - Calculated distance: 3935.746254609723 km between (40.7128, -74.006) and (34.0522, -118.2437).
+2024-11-24 14:58:37,254 - INFO - API responded in 0.00 seconds.
+2024-11-24 14:58:37,254 - WARNING - API response does not contain valid ISS position data.
+2024-11-24 14:58:37,255 - INFO - API responded in 0.00 seconds.
+2024-11-24 14:58:37,255 - DEBUG - Received ISS position: latitude=40.7128, longitude=-74.0060.
+2024-11-24 15:00:03,517 - INFO - API responded in 0.00 seconds.
+2024-11-24 15:00:03,518 - WARNING - API response does not contain valid ISS position data.
+2024-11-24 15:00:03,518 - INFO - API responded in 0.00 seconds.
+2024-11-24 15:00:03,518 - DEBUG - Received ISS position: latitude=41.7387, longitude=65.2802.
+2024-11-24 15:00:53,372 - INFO - API responded in 0.00 seconds.
+2024-11-24 15:00:53,372 - WARNING - API response does not contain valid ISS position data.
+2024-11-24 15:00:53,373 - INFO - API responded in 0.00 seconds.
+2024-11-24 15:00:53,373 - DEBUG - Received ISS position: latitude=41.7387, longitude=65.2802.
+2024-11-24 15:02:48,656 - ERROR - Error saving results to test_results.json: 
+2024-11-24 15:02:48,661 - INFO - Results saved to test_results.json.
+2024-11-24 15:04:24,891 - ERROR - Error saving results to test_results.json: 
+2024-11-24 15:04:24,895 - INFO - Results saved to test_results.json.
+2024-11-24 15:05:31,829 - ERROR - Error saving results to test_results.json: 
+2024-11-24 15:05:31,833 - INFO - Results saved to test_results.json.
+2024-11-24 15:06:40,491 - ERROR - Error saving results to test_results.json: 
+2024-11-24 15:06:40,495 - INFO - Results saved to test_results.json.
+2024-11-24 15:08:15,137 - ERROR - Error saving results to test_results.json: 
+2024-11-24 15:08:15,144 - INFO - Results saved to test_results.json.
+2024-11-24 15:08:45,478 - INFO - Starting ISS speed tracking.
+2024-11-24 15:08:45,521 - DEBUG - Starting new HTTP connection (1): api.open-notify.org:80
+2024-11-24 15:08:46,902 - DEBUG - http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 113
+2024-11-24 15:08:46,904 - INFO - API responded in 1.42 seconds.
+2024-11-24 15:08:46,904 - DEBUG - Received ISS position: latitude=-7.8634, longitude=150.7685.
+2024-11-24 15:08:46,904 - INFO - Results saved to test_iss_results.json.
+2024-11-24 15:08:47,915 - DEBUG - Starting new HTTP connection (1): api.open-notify.org:80
+2024-11-24 15:08:48,287 - DEBUG - http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 113
+2024-11-24 15:08:48,287 - INFO - API responded in 0.38 seconds.
+2024-11-24 15:08:48,287 - DEBUG - Received ISS position: latitude=-7.9391, longitude=150.8236.
+2024-11-24 15:08:48,287 - DEBUG - Calculated distance: 10.377011907529663 km between (-7.8634, 150.7685) and (-7.9391, 150.8236).
+2024-11-24 15:08:48,287 - INFO - Recorded ISS data: {'timestamp': 1732457327, 'message': 'success', 'iss_position': {'latitude': '-7.9391', 'longitude': '150.8236'}}
+2024-11-24 15:08:48,287 - INFO - Results saved to test_iss_results.json.
+2024-11-24 15:08:49,295 - DEBUG - Starting new HTTP connection (1): api.open-notify.org:80
+2024-11-24 15:08:49,658 - DEBUG - http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 113
+2024-11-24 15:08:49,659 - INFO - API responded in 0.37 seconds.
+2024-11-24 15:08:49,659 - DEBUG - Received ISS position: latitude=-8.0147, longitude=150.8787.
+2024-11-24 15:08:49,659 - DEBUG - Calculated distance: 10.367340256158652 km between (-7.9391, 150.8236) and (-8.0147, 150.8787).
+2024-11-24 15:08:49,659 - INFO - Recorded ISS data: {'timestamp': 1732457329, 'message': 'success', 'iss_position': {'latitude': '-8.0147', 'longitude': '150.8787'}}
+2024-11-24 15:08:49,659 - INFO - Results saved to test_iss_results.json.
+2024-11-24 15:08:49,659 - INFO - Tracking complete.
+2024-11-24 15:08:49,661 - INFO - Starting ISS speed tracking.
+2024-11-24 15:09:48,731 - DEBUG - Calculated distance: 0.0 km between (40.7128, -74.006) and (40.7128, -74.006).
+2024-11-24 15:09:48,732 - DEBUG - Calculated distance: 3935.746254609723 km between (40.7128, -74.006) and (34.0522, -118.2437).
+2024-11-24 15:10:03,381 - DEBUG - Calculated distance: 0.0 km between (40.7128, -74.006) and (40.7128, -74.006).
+2024-11-24 15:10:03,382 - DEBUG - Calculated distance: 3935.746254609723 km between (40.7128, -74.006) and (34.0522, -118.2437).
+2024-11-24 15:10:07,779 - ERROR - Error saving results to test_results.json: 
+2024-11-24 15:10:07,784 - INFO - Results saved to test_results.json.
+2024-11-24 15:10:12,877 - INFO - Starting ISS speed tracking.
+2024-11-24 15:10:12,892 - DEBUG - Starting new HTTP connection (1): api.open-notify.org:80
+2024-11-24 15:10:13,266 - DEBUG - http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 114
+2024-11-24 15:10:13,268 - INFO - API responded in 0.39 seconds.
+2024-11-24 15:10:13,268 - DEBUG - Received ISS position: latitude=-12.2103, longitude=153.9900.
+2024-11-24 15:10:13,269 - INFO - Results saved to test_iss_results.json.
+2024-11-24 15:10:14,275 - DEBUG - Starting new HTTP connection (1): api.open-notify.org:80
+2024-11-24 15:10:16,643 - DEBUG - http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 114
+2024-11-24 15:10:16,645 - INFO - API responded in 2.37 seconds.
+2024-11-24 15:10:16,645 - DEBUG - Received ISS position: latitude=-12.3853, longitude=154.1225.
+2024-11-24 15:10:16,645 - DEBUG - Calculated distance: 24.204961740737616 km between (-12.2103, 153.99) and (-12.3853, 154.1225).
+2024-11-24 15:10:16,645 - INFO - Recorded ISS data: {'timestamp': 1732457416, 'message': 'success', 'iss_position': {'latitude': '-12.3853', 'longitude': '154.1225'}}
+2024-11-24 15:10:16,646 - INFO - Results saved to test_iss_results.json.
+2024-11-24 15:10:16,647 - INFO - Tracking complete.
+2024-11-24 15:10:16,649 - INFO - Starting ISS speed tracking.
+2024-11-24 15:10:26,711 - INFO - API responded in 0.00 seconds.
+2024-11-24 15:10:26,711 - WARNING - API response does not contain valid ISS position data.
+2024-11-24 15:10:26,712 - INFO - API responded in 0.00 seconds.
+2024-11-24 15:10:26,712 - DEBUG - Received ISS position: latitude=41.7387, longitude=65.2802.
+2024-11-24 15:10:34,494 - ERROR - Error fetching ISS position: 
+2024-11-24 15:10:34,494 - ERROR - Error fetching ISS position: 
+2024-11-24 15:10:34,495 - INFO - API responded in 0.00 seconds.
+2024-11-24 15:10:34,495 - WARNING - API response does not contain valid ISS position data.
+2024-11-24 15:10:34,496 - INFO - API responded in 0.00 seconds.
+2024-11-24 15:10:34,496 - WARNING - API response does not contain valid ISS position data.
+2024-11-24 15:10:34,496 - INFO - API responded in 0.00 seconds.
+2024-11-24 15:10:34,496 - DEBUG - Received ISS position: latitude=47.6062, longitude=-122.3321.
+2024-11-24 15:27:59,500 - INFO - Starting ISS speed tracking.
+2024-11-24 15:27:59,500 - ERROR - Invalid initial ISS position. Exiting.
+2024-11-24 15:27:59,501 - INFO - Results saved to iss_speed_results.json.
+2024-11-24 15:27:59,503 - INFO - Starting ISS speed tracking.
+2024-11-24 15:28:00,504 - DEBUG - Calculated distance: 3935.746254609723 km between (40.7128, -74.006) and (34.0522, -118.2437).
+2024-11-24 15:28:00,504 - INFO - Recorded ISS data: {'timestamp': 1609459260, 'message': 'success', 'iss_position': {'latitude': '34.0522', 'longitude': '-118.2437'}}
+2024-11-24 15:29:59,049 - INFO - Starting ISS speed tracking.
+2024-11-24 15:29:59,049 - ERROR - Invalid initial ISS position. Exiting.
+2024-11-24 15:29:59,049 - INFO - Results saved to iss_speed_results.json.
+2024-11-24 15:29:59,051 - INFO - Starting ISS speed tracking.
+2024-11-24 15:30:00,057 - DEBUG - Calculated distance: 3935.746254609723 km between (40.7128, -74.006) and (34.0522, -118.2437).
+2024-11-24 15:30:00,057 - INFO - Recorded ISS data: {'timestamp': 1609459260, 'message': 'success', 'iss_position': {'latitude': '34.0522', 'longitude': '-118.2437'}}
+2024-11-24 15:30:01,072 - DEBUG - Calculated distance: 3935.746254609723 km between (34.0522, -118.2437) and (40.7128, -74.006).
+2024-11-24 15:30:01,072 - INFO - Recorded ISS data: {'timestamp': 1609459200, 'message': 'success', 'iss_position': {'latitude': '40.7128', 'longitude': '-74.0060'}}
+2024-11-24 15:30:02,075 - DEBUG - Calculated distance: 3935.746254609723 km between (40.7128, -74.006) and (34.0522, -118.2437).
+2024-11-24 15:30:02,075 - INFO - Recorded ISS data: {'timestamp': 1609459260, 'message': 'success', 'iss_position': {'latitude': '34.0522', 'longitude': '-118.2437'}}
+2024-11-24 15:30:03,082 - DEBUG - Calculated distance: 3935.746254609723 km between (34.0522, -118.2437) and (40.7128, -74.006).
+2024-11-24 15:30:03,082 - INFO - Recorded ISS data: {'timestamp': 1609459200, 'message': 'success', 'iss_position': {'latitude': '40.7128', 'longitude': '-74.0060'}}
+2024-11-24 15:30:04,089 - DEBUG - Calculated distance: 3935.746254609723 km between (40.7128, -74.006) and (34.0522, -118.2437).
+2024-11-24 15:30:04,090 - INFO - Recorded ISS data: {'timestamp': 1609459260, 'message': 'success', 'iss_position': {'latitude': '34.0522', 'longitude': '-118.2437'}}
+2024-11-24 15:30:04,090 - INFO - Tracking complete.
+2024-11-24 15:32:12,269 - INFO - Starting ISS speed tracking.
+2024-11-24 15:32:12,269 - ERROR - Invalid initial ISS position. Exiting.
+2024-11-24 15:32:12,270 - INFO - Results saved to iss_speed_results.json.
+2024-11-24 15:32:12,270 - INFO - Starting ISS speed tracking.
+2024-11-24 15:32:13,278 - DEBUG - Calculated distance: 3935.746254609723 km between (40.7128, -74.006) and (34.0522, -118.2437).
+2024-11-24 15:32:13,278 - INFO - Recorded ISS data: {'timestamp': 1609459260, 'message': 'success', 'iss_position': {'latitude': '34.0522', 'longitude': '-118.2437'}}
+2024-11-24 15:32:14,283 - DEBUG - Calculated distance: 3935.746254609723 km between (34.0522, -118.2437) and (40.7128, -74.006).
+2024-11-24 15:32:14,283 - INFO - Recorded ISS data: {'timestamp': 1609459200, 'message': 'success', 'iss_position': {'latitude': '40.7128', 'longitude': '-74.0060'}}
+2024-11-24 15:32:15,287 - DEBUG - Calculated distance: 3935.746254609723 km between (40.7128, -74.006) and (34.0522, -118.2437).
+2024-11-24 15:32:15,289 - INFO - Recorded ISS data: {'timestamp': 1609459260, 'message': 'success', 'iss_position': {'latitude': '34.0522', 'longitude': '-118.2437'}}
+2024-11-24 15:32:16,294 - DEBUG - Calculated distance: 3935.746254609723 km between (34.0522, -118.2437) and (40.7128, -74.006).
+2024-11-24 15:32:16,295 - INFO - Recorded ISS data: {'timestamp': 1609459200, 'message': 'success', 'iss_position': {'latitude': '40.7128', 'longitude': '-74.0060'}}
+2024-11-24 15:32:17,297 - DEBUG - Calculated distance: 3935.746254609723 km between (40.7128, -74.006) and (34.0522, -118.2437).
+2024-11-24 15:32:17,298 - INFO - Recorded ISS data: {'timestamp': 1609459260, 'message': 'success', 'iss_position': {'latitude': '34.0522', 'longitude': '-118.2437'}}
+2024-11-24 15:32:17,298 - INFO - Tracking complete.
+2024-11-24 15:34:41,940 - INFO - Starting ISS speed tracking.
+2024-11-24 15:34:42,046 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7128, -74.006) and (40.7129, -74.0061).
+2024-11-24 15:34:42,046 - INFO - Recorded ISS data: {'timestamp': 1609459260, 'message': 'success', 'iss_position': {'latitude': '40.7129', 'longitude': '-74.0061'}}
+2024-11-24 15:34:42,151 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7129, -74.0061) and (40.7128, -74.006).
+2024-11-24 15:34:42,151 - INFO - Recorded ISS data: {'timestamp': 1609459200, 'message': 'success', 'iss_position': {'latitude': '40.7128', 'longitude': '-74.0060'}}
+2024-11-24 15:34:42,254 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7128, -74.006) and (40.7129, -74.0061).
+2024-11-24 15:34:42,254 - INFO - Recorded ISS data: {'timestamp': 1609459260, 'message': 'success', 'iss_position': {'latitude': '40.7129', 'longitude': '-74.0061'}}
+2024-11-24 15:34:42,358 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7129, -74.0061) and (40.7128, -74.006).
+2024-11-24 15:34:42,358 - INFO - Recorded ISS data: {'timestamp': 1609459200, 'message': 'success', 'iss_position': {'latitude': '40.7128', 'longitude': '-74.0060'}}
+2024-11-24 15:34:42,464 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7128, -74.006) and (40.7129, -74.0061).
+2024-11-24 15:34:42,464 - INFO - Recorded ISS data: {'timestamp': 1609459260, 'message': 'success', 'iss_position': {'latitude': '40.7129', 'longitude': '-74.0061'}}
+2024-11-24 15:34:42,570 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7129, -74.0061) and (40.7128, -74.006).
+2024-11-24 15:34:42,570 - INFO - Recorded ISS data: {'timestamp': 1609459200, 'message': 'success', 'iss_position': {'latitude': '40.7128', 'longitude': '-74.0060'}}
+2024-11-24 15:34:42,675 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7128, -74.006) and (40.7129, -74.0061).
+2024-11-24 15:34:42,675 - INFO - Recorded ISS data: {'timestamp': 1609459260, 'message': 'success', 'iss_position': {'latitude': '40.7129', 'longitude': '-74.0061'}}
+2024-11-24 15:34:42,776 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7129, -74.0061) and (40.7128, -74.006).
+2024-11-24 15:34:42,776 - INFO - Recorded ISS data: {'timestamp': 1609459200, 'message': 'success', 'iss_position': {'latitude': '40.7128', 'longitude': '-74.0060'}}
+2024-11-24 15:34:42,877 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7128, -74.006) and (40.7129, -74.0061).
+2024-11-24 15:34:42,877 - INFO - Recorded ISS data: {'timestamp': 1609459260, 'message': 'success', 'iss_position': {'latitude': '40.7129', 'longitude': '-74.0061'}}
+2024-11-24 15:34:42,980 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7129, -74.0061) and (40.7128, -74.006).
+2024-11-24 15:34:42,980 - INFO - Recorded ISS data: {'timestamp': 1609459200, 'message': 'success', 'iss_position': {'latitude': '40.7128', 'longitude': '-74.0060'}}
+2024-11-24 15:34:43,084 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7128, -74.006) and (40.7129, -74.0061).
+2024-11-24 15:34:43,084 - INFO - Recorded ISS data: {'timestamp': 1609459260, 'message': 'success', 'iss_position': {'latitude': '40.7129', 'longitude': '-74.0061'}}
+2024-11-24 15:34:43,190 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7129, -74.0061) and (40.7128, -74.006).
+2024-11-24 15:34:43,190 - INFO - Recorded ISS data: {'timestamp': 1609459200, 'message': 'success', 'iss_position': {'latitude': '40.7128', 'longitude': '-74.0060'}}
+2024-11-24 15:34:43,295 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7128, -74.006) and (40.7129, -74.0061).
+2024-11-24 15:34:43,295 - INFO - Recorded ISS data: {'timestamp': 1609459260, 'message': 'success', 'iss_position': {'latitude': '40.7129', 'longitude': '-74.0061'}}
+2024-11-24 15:34:43,400 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7129, -74.0061) and (40.7128, -74.006).
+2024-11-24 15:34:43,400 - INFO - Recorded ISS data: {'timestamp': 1609459200, 'message': 'success', 'iss_position': {'latitude': '40.7128', 'longitude': '-74.0060'}}
+2024-11-24 15:34:43,505 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7128, -74.006) and (40.7129, -74.0061).
+2024-11-24 15:34:43,505 - INFO - Recorded ISS data: {'timestamp': 1609459260, 'message': 'success', 'iss_position': {'latitude': '40.7129', 'longitude': '-74.0061'}}
+2024-11-24 15:34:43,611 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7129, -74.0061) and (40.7128, -74.006).
+2024-11-24 15:34:43,611 - INFO - Recorded ISS data: {'timestamp': 1609459200, 'message': 'success', 'iss_position': {'latitude': '40.7128', 'longitude': '-74.0060'}}
+2024-11-24 15:34:43,716 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7128, -74.006) and (40.7129, -74.0061).
+2024-11-24 15:34:43,716 - INFO - Recorded ISS data: {'timestamp': 1609459260, 'message': 'success', 'iss_position': {'latitude': '40.7129', 'longitude': '-74.0061'}}
+2024-11-24 15:34:43,820 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7129, -74.0061) and (40.7128, -74.006).
+2024-11-24 15:34:43,820 - INFO - Recorded ISS data: {'timestamp': 1609459200, 'message': 'success', 'iss_position': {'latitude': '40.7128', 'longitude': '-74.0060'}}
+2024-11-24 15:34:43,925 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7128, -74.006) and (40.7129, -74.0061).
+2024-11-24 15:34:43,925 - INFO - Recorded ISS data: {'timestamp': 1609459260, 'message': 'success', 'iss_position': {'latitude': '40.7129', 'longitude': '-74.0061'}}
+2024-11-24 15:34:44,026 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7129, -74.0061) and (40.7128, -74.006).
+2024-11-24 15:34:44,026 - INFO - Recorded ISS data: {'timestamp': 1609459200, 'message': 'success', 'iss_position': {'latitude': '40.7128', 'longitude': '-74.0060'}}
+2024-11-24 15:34:44,131 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7128, -74.006) and (40.7129, -74.0061).
+2024-11-24 15:34:44,131 - INFO - Recorded ISS data: {'timestamp': 1609459260, 'message': 'success', 'iss_position': {'latitude': '40.7129', 'longitude': '-74.0061'}}
+2024-11-24 15:34:44,235 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7129, -74.0061) and (40.7128, -74.006).
+2024-11-24 15:34:44,235 - INFO - Recorded ISS data: {'timestamp': 1609459200, 'message': 'success', 'iss_position': {'latitude': '40.7128', 'longitude': '-74.0060'}}
+2024-11-24 15:34:44,338 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7128, -74.006) and (40.7129, -74.0061).
+2024-11-24 15:34:44,339 - INFO - Recorded ISS data: {'timestamp': 1609459260, 'message': 'success', 'iss_position': {'latitude': '40.7129', 'longitude': '-74.0061'}}
+2024-11-24 15:34:44,444 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7129, -74.0061) and (40.7128, -74.006).
+2024-11-24 15:34:44,444 - INFO - Recorded ISS data: {'timestamp': 1609459200, 'message': 'success', 'iss_position': {'latitude': '40.7128', 'longitude': '-74.0060'}}
+2024-11-24 15:34:44,547 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7128, -74.006) and (40.7129, -74.0061).
+2024-11-24 15:34:44,547 - INFO - Recorded ISS data: {'timestamp': 1609459260, 'message': 'success', 'iss_position': {'latitude': '40.7129', 'longitude': '-74.0061'}}
+2024-11-24 15:34:44,651 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7129, -74.0061) and (40.7128, -74.006).
+2024-11-24 15:34:44,652 - INFO - Recorded ISS data: {'timestamp': 1609459200, 'message': 'success', 'iss_position': {'latitude': '40.7128', 'longitude': '-74.0060'}}
+2024-11-24 15:34:44,756 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7128, -74.006) and (40.7129, -74.0061).
+2024-11-24 15:34:44,756 - INFO - Recorded ISS data: {'timestamp': 1609459260, 'message': 'success', 'iss_position': {'latitude': '40.7129', 'longitude': '-74.0061'}}
+2024-11-24 15:34:44,859 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7129, -74.0061) and (40.7128, -74.006).
+2024-11-24 15:34:44,860 - INFO - Recorded ISS data: {'timestamp': 1609459200, 'message': 'success', 'iss_position': {'latitude': '40.7128', 'longitude': '-74.0060'}}
+2024-11-24 15:34:44,965 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7128, -74.006) and (40.7129, -74.0061).
+2024-11-24 15:34:44,965 - INFO - Recorded ISS data: {'timestamp': 1609459260, 'message': 'success', 'iss_position': {'latitude': '40.7129', 'longitude': '-74.0061'}}
+2024-11-24 15:34:45,066 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7129, -74.0061) and (40.7128, -74.006).
+2024-11-24 15:34:45,067 - INFO - Recorded ISS data: {'timestamp': 1609459200, 'message': 'success', 'iss_position': {'latitude': '40.7128', 'longitude': '-74.0060'}}
+2024-11-24 15:34:45,172 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7128, -74.006) and (40.7129, -74.0061).
+2024-11-24 15:34:45,172 - INFO - Recorded ISS data: {'timestamp': 1609459260, 'message': 'success', 'iss_position': {'latitude': '40.7129', 'longitude': '-74.0061'}}
+2024-11-24 15:34:45,275 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7129, -74.0061) and (40.7128, -74.006).
+2024-11-24 15:34:45,275 - INFO - Recorded ISS data: {'timestamp': 1609459200, 'message': 'success', 'iss_position': {'latitude': '40.7128', 'longitude': '-74.0060'}}
+2024-11-24 15:34:45,380 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7128, -74.006) and (40.7129, -74.0061).
+2024-11-24 15:34:45,381 - INFO - Recorded ISS data: {'timestamp': 1609459260, 'message': 'success', 'iss_position': {'latitude': '40.7129', 'longitude': '-74.0061'}}
+2024-11-24 15:34:45,482 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7129, -74.0061) and (40.7128, -74.006).
+2024-11-24 15:34:45,483 - INFO - Recorded ISS data: {'timestamp': 1609459200, 'message': 'success', 'iss_position': {'latitude': '40.7128', 'longitude': '-74.0060'}}
+2024-11-24 15:34:45,586 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7128, -74.006) and (40.7129, -74.0061).
+2024-11-24 15:34:45,587 - INFO - Recorded ISS data: {'timestamp': 1609459260, 'message': 'success', 'iss_position': {'latitude': '40.7129', 'longitude': '-74.0061'}}
+2024-11-24 15:34:45,692 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7129, -74.0061) and (40.7128, -74.006).
+2024-11-24 15:34:45,693 - INFO - Recorded ISS data: {'timestamp': 1609459200, 'message': 'success', 'iss_position': {'latitude': '40.7128', 'longitude': '-74.0060'}}
+2024-11-24 15:34:45,798 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7128, -74.006) and (40.7129, -74.0061).
+2024-11-24 15:34:45,798 - INFO - Recorded ISS data: {'timestamp': 1609459260, 'message': 'success', 'iss_position': {'latitude': '40.7129', 'longitude': '-74.0061'}}
+2024-11-24 15:34:45,903 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7129, -74.0061) and (40.7128, -74.006).
+2024-11-24 15:34:45,903 - INFO - Recorded ISS data: {'timestamp': 1609459200, 'message': 'success', 'iss_position': {'latitude': '40.7128', 'longitude': '-74.0060'}}
+2024-11-24 15:34:46,004 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7128, -74.006) and (40.7129, -74.0061).
+2024-11-24 15:34:46,005 - INFO - Recorded ISS data: {'timestamp': 1609459260, 'message': 'success', 'iss_position': {'latitude': '40.7129', 'longitude': '-74.0061'}}
+2024-11-24 15:34:46,110 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7129, -74.0061) and (40.7128, -74.006).
+2024-11-24 15:34:46,110 - INFO - Recorded ISS data: {'timestamp': 1609459200, 'message': 'success', 'iss_position': {'latitude': '40.7128', 'longitude': '-74.0060'}}
+2024-11-24 15:34:46,212 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7128, -74.006) and (40.7129, -74.0061).
+2024-11-24 15:34:46,216 - INFO - Recorded ISS data: {'timestamp': 1609459260, 'message': 'success', 'iss_position': {'latitude': '40.7129', 'longitude': '-74.0061'}}
+2024-11-24 15:34:46,316 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7129, -74.0061) and (40.7128, -74.006).
+2024-11-24 15:34:46,316 - INFO - Recorded ISS data: {'timestamp': 1609459200, 'message': 'success', 'iss_position': {'latitude': '40.7128', 'longitude': '-74.0060'}}
+2024-11-24 15:34:46,421 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7128, -74.006) and (40.7129, -74.0061).
+2024-11-24 15:34:46,422 - INFO - Recorded ISS data: {'timestamp': 1609459260, 'message': 'success', 'iss_position': {'latitude': '40.7129', 'longitude': '-74.0061'}}
+2024-11-24 15:34:46,527 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7129, -74.0061) and (40.7128, -74.006).
+2024-11-24 15:34:46,527 - INFO - Recorded ISS data: {'timestamp': 1609459200, 'message': 'success', 'iss_position': {'latitude': '40.7128', 'longitude': '-74.0060'}}
+2024-11-24 15:34:46,630 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7128, -74.006) and (40.7129, -74.0061).
+2024-11-24 15:34:46,630 - INFO - Recorded ISS data: {'timestamp': 1609459260, 'message': 'success', 'iss_position': {'latitude': '40.7129', 'longitude': '-74.0061'}}
+2024-11-24 15:34:46,732 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7129, -74.0061) and (40.7128, -74.006).
+2024-11-24 15:34:46,732 - INFO - Recorded ISS data: {'timestamp': 1609459200, 'message': 'success', 'iss_position': {'latitude': '40.7128', 'longitude': '-74.0060'}}
+2024-11-24 15:34:46,834 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7128, -74.006) and (40.7129, -74.0061).
+2024-11-24 15:34:46,834 - INFO - Recorded ISS data: {'timestamp': 1609459260, 'message': 'success', 'iss_position': {'latitude': '40.7129', 'longitude': '-74.0061'}}
+2024-11-24 15:34:46,939 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7129, -74.0061) and (40.7128, -74.006).
+2024-11-24 15:34:46,939 - INFO - Recorded ISS data: {'timestamp': 1609459200, 'message': 'success', 'iss_position': {'latitude': '40.7128', 'longitude': '-74.0060'}}
+2024-11-24 15:34:47,045 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7128, -74.006) and (40.7129, -74.0061).
+2024-11-24 15:34:47,045 - INFO - Recorded ISS data: {'timestamp': 1609459260, 'message': 'success', 'iss_position': {'latitude': '40.7129', 'longitude': '-74.0061'}}
+2024-11-24 15:34:47,149 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7129, -74.0061) and (40.7128, -74.006).
+2024-11-24 15:34:47,149 - INFO - Recorded ISS data: {'timestamp': 1609459200, 'message': 'success', 'iss_position': {'latitude': '40.7128', 'longitude': '-74.0060'}}
+2024-11-24 15:34:47,258 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7128, -74.006) and (40.7129, -74.0061).
+2024-11-24 15:34:47,258 - INFO - Recorded ISS data: {'timestamp': 1609459260, 'message': 'success', 'iss_position': {'latitude': '40.7129', 'longitude': '-74.0061'}}
+2024-11-24 15:34:47,363 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7129, -74.0061) and (40.7128, -74.006).
+2024-11-24 15:34:47,363 - INFO - Recorded ISS data: {'timestamp': 1609459200, 'message': 'success', 'iss_position': {'latitude': '40.7128', 'longitude': '-74.0060'}}
+2024-11-24 15:34:47,469 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7128, -74.006) and (40.7129, -74.0061).
+2024-11-24 15:34:47,469 - INFO - Recorded ISS data: {'timestamp': 1609459260, 'message': 'success', 'iss_position': {'latitude': '40.7129', 'longitude': '-74.0061'}}
+2024-11-24 15:34:47,576 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7129, -74.0061) and (40.7128, -74.006).
+2024-11-24 15:34:47,577 - INFO - Recorded ISS data: {'timestamp': 1609459200, 'message': 'success', 'iss_position': {'latitude': '40.7128', 'longitude': '-74.0060'}}
+2024-11-24 15:34:47,678 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7128, -74.006) and (40.7129, -74.0061).
+2024-11-24 15:34:47,678 - INFO - Recorded ISS data: {'timestamp': 1609459260, 'message': 'success', 'iss_position': {'latitude': '40.7129', 'longitude': '-74.0061'}}
+2024-11-24 15:34:47,783 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7129, -74.0061) and (40.7128, -74.006).
+2024-11-24 15:34:47,783 - INFO - Recorded ISS data: {'timestamp': 1609459200, 'message': 'success', 'iss_position': {'latitude': '40.7128', 'longitude': '-74.0060'}}
+2024-11-24 15:34:47,888 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7128, -74.006) and (40.7129, -74.0061).
+2024-11-24 15:34:47,888 - INFO - Recorded ISS data: {'timestamp': 1609459260, 'message': 'success', 'iss_position': {'latitude': '40.7129', 'longitude': '-74.0061'}}
+2024-11-24 15:34:47,991 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7129, -74.0061) and (40.7128, -74.006).
+2024-11-24 15:34:47,991 - INFO - Recorded ISS data: {'timestamp': 1609459200, 'message': 'success', 'iss_position': {'latitude': '40.7128', 'longitude': '-74.0060'}}
+2024-11-24 15:34:48,097 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7128, -74.006) and (40.7129, -74.0061).
+2024-11-24 15:34:48,097 - INFO - Recorded ISS data: {'timestamp': 1609459260, 'message': 'success', 'iss_position': {'latitude': '40.7129', 'longitude': '-74.0061'}}
+2024-11-24 15:34:48,198 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7129, -74.0061) and (40.7128, -74.006).
+2024-11-24 15:34:48,199 - INFO - Recorded ISS data: {'timestamp': 1609459200, 'message': 'success', 'iss_position': {'latitude': '40.7128', 'longitude': '-74.0060'}}
+2024-11-24 15:34:48,304 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7128, -74.006) and (40.7129, -74.0061).
+2024-11-24 15:34:48,304 - INFO - Recorded ISS data: {'timestamp': 1609459260, 'message': 'success', 'iss_position': {'latitude': '40.7129', 'longitude': '-74.0061'}}
+2024-11-24 15:34:48,410 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7129, -74.0061) and (40.7128, -74.006).
+2024-11-24 15:34:48,410 - INFO - Recorded ISS data: {'timestamp': 1609459200, 'message': 'success', 'iss_position': {'latitude': '40.7128', 'longitude': '-74.0060'}}
+2024-11-24 15:34:48,515 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7128, -74.006) and (40.7129, -74.0061).
+2024-11-24 15:34:48,515 - INFO - Recorded ISS data: {'timestamp': 1609459260, 'message': 'success', 'iss_position': {'latitude': '40.7129', 'longitude': '-74.0061'}}
+2024-11-24 15:34:48,619 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7129, -74.0061) and (40.7128, -74.006).
+2024-11-24 15:34:48,619 - INFO - Recorded ISS data: {'timestamp': 1609459200, 'message': 'success', 'iss_position': {'latitude': '40.7128', 'longitude': '-74.0060'}}
+2024-11-24 15:34:48,740 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7128, -74.006) and (40.7129, -74.0061).
+2024-11-24 15:34:48,740 - INFO - Recorded ISS data: {'timestamp': 1609459260, 'message': 'success', 'iss_position': {'latitude': '40.7129', 'longitude': '-74.0061'}}
+2024-11-24 15:34:48,846 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7129, -74.0061) and (40.7128, -74.006).
+2024-11-24 15:34:48,846 - INFO - Recorded ISS data: {'timestamp': 1609459200, 'message': 'success', 'iss_position': {'latitude': '40.7128', 'longitude': '-74.0060'}}
+2024-11-24 15:34:48,950 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7128, -74.006) and (40.7129, -74.0061).
+2024-11-24 15:34:48,951 - INFO - Recorded ISS data: {'timestamp': 1609459260, 'message': 'success', 'iss_position': {'latitude': '40.7129', 'longitude': '-74.0061'}}
+2024-11-24 15:34:49,054 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7129, -74.0061) and (40.7128, -74.006).
+2024-11-24 15:34:49,055 - INFO - Recorded ISS data: {'timestamp': 1609459200, 'message': 'success', 'iss_position': {'latitude': '40.7128', 'longitude': '-74.0060'}}
+2024-11-24 15:34:49,158 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7128, -74.006) and (40.7129, -74.0061).
+2024-11-24 15:34:49,159 - INFO - Recorded ISS data: {'timestamp': 1609459260, 'message': 'success', 'iss_position': {'latitude': '40.7129', 'longitude': '-74.0061'}}
+2024-11-24 15:34:49,264 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7129, -74.0061) and (40.7128, -74.006).
+2024-11-24 15:34:49,264 - INFO - Recorded ISS data: {'timestamp': 1609459200, 'message': 'success', 'iss_position': {'latitude': '40.7128', 'longitude': '-74.0060'}}
+2024-11-24 15:34:49,370 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7128, -74.006) and (40.7129, -74.0061).
+2024-11-24 15:34:49,370 - INFO - Recorded ISS data: {'timestamp': 1609459260, 'message': 'success', 'iss_position': {'latitude': '40.7129', 'longitude': '-74.0061'}}
+2024-11-24 15:34:49,477 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7129, -74.0061) and (40.7128, -74.006).
+2024-11-24 15:34:49,477 - INFO - Recorded ISS data: {'timestamp': 1609459200, 'message': 'success', 'iss_position': {'latitude': '40.7128', 'longitude': '-74.0060'}}
+2024-11-24 15:34:49,579 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7128, -74.006) and (40.7129, -74.0061).
+2024-11-24 15:34:49,580 - INFO - Recorded ISS data: {'timestamp': 1609459260, 'message': 'success', 'iss_position': {'latitude': '40.7129', 'longitude': '-74.0061'}}
+2024-11-24 15:34:49,684 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7129, -74.0061) and (40.7128, -74.006).
+2024-11-24 15:34:49,685 - INFO - Recorded ISS data: {'timestamp': 1609459200, 'message': 'success', 'iss_position': {'latitude': '40.7128', 'longitude': '-74.0060'}}
+2024-11-24 15:34:49,789 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7128, -74.006) and (40.7129, -74.0061).
+2024-11-24 15:34:49,790 - INFO - Recorded ISS data: {'timestamp': 1609459260, 'message': 'success', 'iss_position': {'latitude': '40.7129', 'longitude': '-74.0061'}}
+2024-11-24 15:34:49,895 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7129, -74.0061) and (40.7128, -74.006).
+2024-11-24 15:34:49,895 - INFO - Recorded ISS data: {'timestamp': 1609459200, 'message': 'success', 'iss_position': {'latitude': '40.7128', 'longitude': '-74.0060'}}
+2024-11-24 15:34:50,000 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7128, -74.006) and (40.7129, -74.0061).
+2024-11-24 15:34:50,001 - INFO - Recorded ISS data: {'timestamp': 1609459260, 'message': 'success', 'iss_position': {'latitude': '40.7129', 'longitude': '-74.0061'}}
+2024-11-24 15:34:50,107 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7129, -74.0061) and (40.7128, -74.006).
+2024-11-24 15:34:50,108 - INFO - Recorded ISS data: {'timestamp': 1609459200, 'message': 'success', 'iss_position': {'latitude': '40.7128', 'longitude': '-74.0060'}}
+2024-11-24 15:34:50,213 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7128, -74.006) and (40.7129, -74.0061).
+2024-11-24 15:34:50,213 - INFO - Recorded ISS data: {'timestamp': 1609459260, 'message': 'success', 'iss_position': {'latitude': '40.7129', 'longitude': '-74.0061'}}
+2024-11-24 15:34:50,319 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7129, -74.0061) and (40.7128, -74.006).
+2024-11-24 15:34:50,319 - INFO - Recorded ISS data: {'timestamp': 1609459200, 'message': 'success', 'iss_position': {'latitude': '40.7128', 'longitude': '-74.0060'}}
+2024-11-24 15:34:50,422 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7128, -74.006) and (40.7129, -74.0061).
+2024-11-24 15:34:50,423 - INFO - Recorded ISS data: {'timestamp': 1609459260, 'message': 'success', 'iss_position': {'latitude': '40.7129', 'longitude': '-74.0061'}}
+2024-11-24 15:34:50,527 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7129, -74.0061) and (40.7128, -74.006).
+2024-11-24 15:34:50,527 - INFO - Recorded ISS data: {'timestamp': 1609459200, 'message': 'success', 'iss_position': {'latitude': '40.7128', 'longitude': '-74.0060'}}
+2024-11-24 15:34:50,632 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7128, -74.006) and (40.7129, -74.0061).
+2024-11-24 15:34:50,632 - INFO - Recorded ISS data: {'timestamp': 1609459260, 'message': 'success', 'iss_position': {'latitude': '40.7129', 'longitude': '-74.0061'}}
+2024-11-24 15:34:50,736 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7129, -74.0061) and (40.7128, -74.006).
+2024-11-24 15:34:50,736 - INFO - Recorded ISS data: {'timestamp': 1609459200, 'message': 'success', 'iss_position': {'latitude': '40.7128', 'longitude': '-74.0060'}}
+2024-11-24 15:34:50,840 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7128, -74.006) and (40.7129, -74.0061).
+2024-11-24 15:34:50,840 - INFO - Recorded ISS data: {'timestamp': 1609459260, 'message': 'success', 'iss_position': {'latitude': '40.7129', 'longitude': '-74.0061'}}
+2024-11-24 15:34:50,945 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7129, -74.0061) and (40.7128, -74.006).
+2024-11-24 15:34:50,945 - INFO - Recorded ISS data: {'timestamp': 1609459200, 'message': 'success', 'iss_position': {'latitude': '40.7128', 'longitude': '-74.0060'}}
+2024-11-24 15:34:51,047 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7128, -74.006) and (40.7129, -74.0061).
+2024-11-24 15:34:51,047 - INFO - Recorded ISS data: {'timestamp': 1609459260, 'message': 'success', 'iss_position': {'latitude': '40.7129', 'longitude': '-74.0061'}}
+2024-11-24 15:34:51,152 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7129, -74.0061) and (40.7128, -74.006).
+2024-11-24 15:34:51,153 - INFO - Recorded ISS data: {'timestamp': 1609459200, 'message': 'success', 'iss_position': {'latitude': '40.7128', 'longitude': '-74.0060'}}
+2024-11-24 15:34:51,258 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7128, -74.006) and (40.7129, -74.0061).
+2024-11-24 15:34:51,259 - INFO - Recorded ISS data: {'timestamp': 1609459260, 'message': 'success', 'iss_position': {'latitude': '40.7129', 'longitude': '-74.0061'}}
+2024-11-24 15:34:51,364 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7129, -74.0061) and (40.7128, -74.006).
+2024-11-24 15:34:51,364 - INFO - Recorded ISS data: {'timestamp': 1609459200, 'message': 'success', 'iss_position': {'latitude': '40.7128', 'longitude': '-74.0060'}}
+2024-11-24 15:34:51,468 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7128, -74.006) and (40.7129, -74.0061).
+2024-11-24 15:34:51,468 - INFO - Recorded ISS data: {'timestamp': 1609459260, 'message': 'success', 'iss_position': {'latitude': '40.7129', 'longitude': '-74.0061'}}
+2024-11-24 15:34:51,573 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7129, -74.0061) and (40.7128, -74.006).
+2024-11-24 15:34:51,573 - INFO - Recorded ISS data: {'timestamp': 1609459200, 'message': 'success', 'iss_position': {'latitude': '40.7128', 'longitude': '-74.0060'}}
+2024-11-24 15:34:51,678 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7128, -74.006) and (40.7129, -74.0061).
+2024-11-24 15:34:51,678 - INFO - Recorded ISS data: {'timestamp': 1609459260, 'message': 'success', 'iss_position': {'latitude': '40.7129', 'longitude': '-74.0061'}}
+2024-11-24 15:34:51,779 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7129, -74.0061) and (40.7128, -74.006).
+2024-11-24 15:34:51,780 - INFO - Recorded ISS data: {'timestamp': 1609459200, 'message': 'success', 'iss_position': {'latitude': '40.7128', 'longitude': '-74.0060'}}
+2024-11-24 15:34:51,883 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7128, -74.006) and (40.7129, -74.0061).
+2024-11-24 15:34:51,883 - INFO - Recorded ISS data: {'timestamp': 1609459260, 'message': 'success', 'iss_position': {'latitude': '40.7129', 'longitude': '-74.0061'}}
+2024-11-24 15:34:51,987 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7129, -74.0061) and (40.7128, -74.006).
+2024-11-24 15:34:51,988 - INFO - Recorded ISS data: {'timestamp': 1609459200, 'message': 'success', 'iss_position': {'latitude': '40.7128', 'longitude': '-74.0060'}}
+2024-11-24 15:34:51,988 - INFO - Tracking complete.
+2024-11-24 15:36:06,583 - INFO - Starting ISS speed tracking.
+2024-11-24 15:36:06,688 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7128, -74.006) and (40.7129, -74.0061).
+2024-11-24 15:36:06,688 - INFO - Recorded ISS data: {'timestamp': 1609459260, 'message': 'success', 'iss_position': {'latitude': '40.7129', 'longitude': '-74.0061'}}
+2024-11-24 15:36:06,793 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7129, -74.0061) and (40.7128, -74.006).
+2024-11-24 15:36:06,793 - INFO - Recorded ISS data: {'timestamp': 1609459200, 'message': 'success', 'iss_position': {'latitude': '40.7128', 'longitude': '-74.0060'}}
+2024-11-24 15:36:06,898 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7128, -74.006) and (40.7129, -74.0061).
+2024-11-24 15:36:06,899 - INFO - Recorded ISS data: {'timestamp': 1609459260, 'message': 'success', 'iss_position': {'latitude': '40.7129', 'longitude': '-74.0061'}}
+2024-11-24 15:36:07,003 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7129, -74.0061) and (40.7128, -74.006).
+2024-11-24 15:36:07,003 - INFO - Recorded ISS data: {'timestamp': 1609459200, 'message': 'success', 'iss_position': {'latitude': '40.7128', 'longitude': '-74.0060'}}
+2024-11-24 15:36:07,104 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7128, -74.006) and (40.7129, -74.0061).
+2024-11-24 15:36:07,104 - INFO - Recorded ISS data: {'timestamp': 1609459260, 'message': 'success', 'iss_position': {'latitude': '40.7129', 'longitude': '-74.0061'}}
+2024-11-24 15:36:07,209 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7129, -74.0061) and (40.7128, -74.006).
+2024-11-24 15:36:07,209 - INFO - Recorded ISS data: {'timestamp': 1609459200, 'message': 'success', 'iss_position': {'latitude': '40.7128', 'longitude': '-74.0060'}}
+2024-11-24 15:36:07,314 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7128, -74.006) and (40.7129, -74.0061).
+2024-11-24 15:36:07,314 - INFO - Recorded ISS data: {'timestamp': 1609459260, 'message': 'success', 'iss_position': {'latitude': '40.7129', 'longitude': '-74.0061'}}
+2024-11-24 15:36:07,419 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7129, -74.0061) and (40.7128, -74.006).
+2024-11-24 15:36:07,419 - INFO - Recorded ISS data: {'timestamp': 1609459200, 'message': 'success', 'iss_position': {'latitude': '40.7128', 'longitude': '-74.0060'}}
+2024-11-24 15:36:07,524 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7128, -74.006) and (40.7129, -74.0061).
+2024-11-24 15:36:07,525 - INFO - Recorded ISS data: {'timestamp': 1609459260, 'message': 'success', 'iss_position': {'latitude': '40.7129', 'longitude': '-74.0061'}}
+2024-11-24 15:36:07,628 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7129, -74.0061) and (40.7128, -74.006).
+2024-11-24 15:36:07,628 - INFO - Recorded ISS data: {'timestamp': 1609459200, 'message': 'success', 'iss_position': {'latitude': '40.7128', 'longitude': '-74.0060'}}
+2024-11-24 15:36:07,731 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7128, -74.006) and (40.7129, -74.0061).
+2024-11-24 15:36:07,731 - INFO - Recorded ISS data: {'timestamp': 1609459260, 'message': 'success', 'iss_position': {'latitude': '40.7129', 'longitude': '-74.0061'}}
+2024-11-24 15:36:07,836 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7129, -74.0061) and (40.7128, -74.006).
+2024-11-24 15:36:07,836 - INFO - Recorded ISS data: {'timestamp': 1609459200, 'message': 'success', 'iss_position': {'latitude': '40.7128', 'longitude': '-74.0060'}}
+2024-11-24 15:36:07,937 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7128, -74.006) and (40.7129, -74.0061).
+2024-11-24 15:36:07,937 - INFO - Recorded ISS data: {'timestamp': 1609459260, 'message': 'success', 'iss_position': {'latitude': '40.7129', 'longitude': '-74.0061'}}
+2024-11-24 15:36:08,038 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7129, -74.0061) and (40.7128, -74.006).
+2024-11-24 15:36:08,038 - INFO - Recorded ISS data: {'timestamp': 1609459200, 'message': 'success', 'iss_position': {'latitude': '40.7128', 'longitude': '-74.0060'}}
+2024-11-24 15:36:08,141 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7128, -74.006) and (40.7129, -74.0061).
+2024-11-24 15:36:08,141 - INFO - Recorded ISS data: {'timestamp': 1609459260, 'message': 'success', 'iss_position': {'latitude': '40.7129', 'longitude': '-74.0061'}}
+2024-11-24 15:36:08,244 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7129, -74.0061) and (40.7128, -74.006).
+2024-11-24 15:36:08,244 - INFO - Recorded ISS data: {'timestamp': 1609459200, 'message': 'success', 'iss_position': {'latitude': '40.7128', 'longitude': '-74.0060'}}
+2024-11-24 15:36:08,349 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7128, -74.006) and (40.7129, -74.0061).
+2024-11-24 15:36:08,349 - INFO - Recorded ISS data: {'timestamp': 1609459260, 'message': 'success', 'iss_position': {'latitude': '40.7129', 'longitude': '-74.0061'}}
+2024-11-24 15:36:08,455 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7129, -74.0061) and (40.7128, -74.006).
+2024-11-24 15:36:08,455 - INFO - Recorded ISS data: {'timestamp': 1609459200, 'message': 'success', 'iss_position': {'latitude': '40.7128', 'longitude': '-74.0060'}}
+2024-11-24 15:36:08,559 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7128, -74.006) and (40.7129, -74.0061).
+2024-11-24 15:36:08,559 - INFO - Recorded ISS data: {'timestamp': 1609459260, 'message': 'success', 'iss_position': {'latitude': '40.7129', 'longitude': '-74.0061'}}
+2024-11-24 15:36:08,660 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7129, -74.0061) and (40.7128, -74.006).
+2024-11-24 15:36:08,660 - INFO - Recorded ISS data: {'timestamp': 1609459200, 'message': 'success', 'iss_position': {'latitude': '40.7128', 'longitude': '-74.0060'}}
+2024-11-24 15:36:08,765 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7128, -74.006) and (40.7129, -74.0061).
+2024-11-24 15:36:08,765 - INFO - Recorded ISS data: {'timestamp': 1609459260, 'message': 'success', 'iss_position': {'latitude': '40.7129', 'longitude': '-74.0061'}}
+2024-11-24 15:36:08,867 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7129, -74.0061) and (40.7128, -74.006).
+2024-11-24 15:36:08,868 - INFO - Recorded ISS data: {'timestamp': 1609459200, 'message': 'success', 'iss_position': {'latitude': '40.7128', 'longitude': '-74.0060'}}
+2024-11-24 15:36:08,974 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7128, -74.006) and (40.7129, -74.0061).
+2024-11-24 15:36:08,974 - INFO - Recorded ISS data: {'timestamp': 1609459260, 'message': 'success', 'iss_position': {'latitude': '40.7129', 'longitude': '-74.0061'}}
+2024-11-24 15:36:09,078 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7129, -74.0061) and (40.7128, -74.006).
+2024-11-24 15:36:09,078 - INFO - Recorded ISS data: {'timestamp': 1609459200, 'message': 'success', 'iss_position': {'latitude': '40.7128', 'longitude': '-74.0060'}}
+2024-11-24 15:36:09,184 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7128, -74.006) and (40.7129, -74.0061).
+2024-11-24 15:36:09,184 - INFO - Recorded ISS data: {'timestamp': 1609459260, 'message': 'success', 'iss_position': {'latitude': '40.7129', 'longitude': '-74.0061'}}
+2024-11-24 15:36:09,289 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7129, -74.0061) and (40.7128, -74.006).
+2024-11-24 15:36:09,289 - INFO - Recorded ISS data: {'timestamp': 1609459200, 'message': 'success', 'iss_position': {'latitude': '40.7128', 'longitude': '-74.0060'}}
+2024-11-24 15:36:09,392 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7128, -74.006) and (40.7129, -74.0061).
+2024-11-24 15:36:09,393 - INFO - Recorded ISS data: {'timestamp': 1609459260, 'message': 'success', 'iss_position': {'latitude': '40.7129', 'longitude': '-74.0061'}}
+2024-11-24 15:36:09,496 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7129, -74.0061) and (40.7128, -74.006).
+2024-11-24 15:36:09,497 - INFO - Recorded ISS data: {'timestamp': 1609459200, 'message': 'success', 'iss_position': {'latitude': '40.7128', 'longitude': '-74.0060'}}
+2024-11-24 15:36:09,601 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7128, -74.006) and (40.7129, -74.0061).
+2024-11-24 15:36:09,602 - INFO - Recorded ISS data: {'timestamp': 1609459260, 'message': 'success', 'iss_position': {'latitude': '40.7129', 'longitude': '-74.0061'}}
+2024-11-24 15:36:09,707 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7129, -74.0061) and (40.7128, -74.006).
+2024-11-24 15:36:09,708 - INFO - Recorded ISS data: {'timestamp': 1609459200, 'message': 'success', 'iss_position': {'latitude': '40.7128', 'longitude': '-74.0060'}}
+2024-11-24 15:36:09,810 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7128, -74.006) and (40.7129, -74.0061).
+2024-11-24 15:36:09,810 - INFO - Recorded ISS data: {'timestamp': 1609459260, 'message': 'success', 'iss_position': {'latitude': '40.7129', 'longitude': '-74.0061'}}
+2024-11-24 15:36:09,915 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7129, -74.0061) and (40.7128, -74.006).
+2024-11-24 15:36:09,916 - INFO - Recorded ISS data: {'timestamp': 1609459200, 'message': 'success', 'iss_position': {'latitude': '40.7128', 'longitude': '-74.0060'}}
+2024-11-24 15:36:10,021 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7128, -74.006) and (40.7129, -74.0061).
+2024-11-24 15:36:10,022 - INFO - Recorded ISS data: {'timestamp': 1609459260, 'message': 'success', 'iss_position': {'latitude': '40.7129', 'longitude': '-74.0061'}}
+2024-11-24 15:36:10,125 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7129, -74.0061) and (40.7128, -74.006).
+2024-11-24 15:36:10,125 - INFO - Recorded ISS data: {'timestamp': 1609459200, 'message': 'success', 'iss_position': {'latitude': '40.7128', 'longitude': '-74.0060'}}
+2024-11-24 15:36:10,230 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7128, -74.006) and (40.7129, -74.0061).
+2024-11-24 15:36:10,230 - INFO - Recorded ISS data: {'timestamp': 1609459260, 'message': 'success', 'iss_position': {'latitude': '40.7129', 'longitude': '-74.0061'}}
+2024-11-24 15:36:10,332 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7129, -74.0061) and (40.7128, -74.006).
+2024-11-24 15:36:10,332 - INFO - Recorded ISS data: {'timestamp': 1609459200, 'message': 'success', 'iss_position': {'latitude': '40.7128', 'longitude': '-74.0060'}}
+2024-11-24 15:36:10,438 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7128, -74.006) and (40.7129, -74.0061).
+2024-11-24 15:36:10,438 - INFO - Recorded ISS data: {'timestamp': 1609459260, 'message': 'success', 'iss_position': {'latitude': '40.7129', 'longitude': '-74.0061'}}
+2024-11-24 15:36:10,543 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7129, -74.0061) and (40.7128, -74.006).
+2024-11-24 15:36:10,543 - INFO - Recorded ISS data: {'timestamp': 1609459200, 'message': 'success', 'iss_position': {'latitude': '40.7128', 'longitude': '-74.0060'}}
+2024-11-24 15:36:10,649 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7128, -74.006) and (40.7129, -74.0061).
+2024-11-24 15:36:10,649 - INFO - Recorded ISS data: {'timestamp': 1609459260, 'message': 'success', 'iss_position': {'latitude': '40.7129', 'longitude': '-74.0061'}}
+2024-11-24 15:36:10,754 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7129, -74.0061) and (40.7128, -74.006).
+2024-11-24 15:36:10,755 - INFO - Recorded ISS data: {'timestamp': 1609459200, 'message': 'success', 'iss_position': {'latitude': '40.7128', 'longitude': '-74.0060'}}
+2024-11-24 15:36:10,859 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7128, -74.006) and (40.7129, -74.0061).
+2024-11-24 15:36:10,859 - INFO - Recorded ISS data: {'timestamp': 1609459260, 'message': 'success', 'iss_position': {'latitude': '40.7129', 'longitude': '-74.0061'}}
+2024-11-24 15:36:10,965 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7129, -74.0061) and (40.7128, -74.006).
+2024-11-24 15:36:10,965 - INFO - Recorded ISS data: {'timestamp': 1609459200, 'message': 'success', 'iss_position': {'latitude': '40.7128', 'longitude': '-74.0060'}}
+2024-11-24 15:36:11,066 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7128, -74.006) and (40.7129, -74.0061).
+2024-11-24 15:36:11,066 - INFO - Recorded ISS data: {'timestamp': 1609459260, 'message': 'success', 'iss_position': {'latitude': '40.7129', 'longitude': '-74.0061'}}
+2024-11-24 15:36:11,167 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7129, -74.0061) and (40.7128, -74.006).
+2024-11-24 15:36:11,168 - INFO - Recorded ISS data: {'timestamp': 1609459200, 'message': 'success', 'iss_position': {'latitude': '40.7128', 'longitude': '-74.0060'}}
+2024-11-24 15:36:11,271 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7128, -74.006) and (40.7129, -74.0061).
+2024-11-24 15:36:11,272 - INFO - Recorded ISS data: {'timestamp': 1609459260, 'message': 'success', 'iss_position': {'latitude': '40.7129', 'longitude': '-74.0061'}}
+2024-11-24 15:36:11,376 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7129, -74.0061) and (40.7128, -74.006).
+2024-11-24 15:36:11,377 - INFO - Recorded ISS data: {'timestamp': 1609459200, 'message': 'success', 'iss_position': {'latitude': '40.7128', 'longitude': '-74.0060'}}
+2024-11-24 15:36:11,483 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7128, -74.006) and (40.7129, -74.0061).
+2024-11-24 15:36:11,484 - INFO - Recorded ISS data: {'timestamp': 1609459260, 'message': 'success', 'iss_position': {'latitude': '40.7129', 'longitude': '-74.0061'}}
+2024-11-24 15:36:11,585 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7129, -74.0061) and (40.7128, -74.006).
+2024-11-24 15:36:11,585 - INFO - Recorded ISS data: {'timestamp': 1609459200, 'message': 'success', 'iss_position': {'latitude': '40.7128', 'longitude': '-74.0060'}}
+2024-11-24 15:36:11,690 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7128, -74.006) and (40.7129, -74.0061).
+2024-11-24 15:36:11,690 - INFO - Recorded ISS data: {'timestamp': 1609459260, 'message': 'success', 'iss_position': {'latitude': '40.7129', 'longitude': '-74.0061'}}
+2024-11-24 15:36:11,791 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7129, -74.0061) and (40.7128, -74.006).
+2024-11-24 15:36:11,792 - INFO - Recorded ISS data: {'timestamp': 1609459200, 'message': 'success', 'iss_position': {'latitude': '40.7128', 'longitude': '-74.0060'}}
+2024-11-24 15:36:11,897 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7128, -74.006) and (40.7129, -74.0061).
+2024-11-24 15:36:11,898 - INFO - Recorded ISS data: {'timestamp': 1609459260, 'message': 'success', 'iss_position': {'latitude': '40.7129', 'longitude': '-74.0061'}}
+2024-11-24 15:36:12,004 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7129, -74.0061) and (40.7128, -74.006).
+2024-11-24 15:36:12,004 - INFO - Recorded ISS data: {'timestamp': 1609459200, 'message': 'success', 'iss_position': {'latitude': '40.7128', 'longitude': '-74.0060'}}
+2024-11-24 15:36:12,110 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7128, -74.006) and (40.7129, -74.0061).
+2024-11-24 15:36:12,110 - INFO - Recorded ISS data: {'timestamp': 1609459260, 'message': 'success', 'iss_position': {'latitude': '40.7129', 'longitude': '-74.0061'}}
+2024-11-24 15:36:12,215 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7129, -74.0061) and (40.7128, -74.006).
+2024-11-24 15:36:12,215 - INFO - Recorded ISS data: {'timestamp': 1609459200, 'message': 'success', 'iss_position': {'latitude': '40.7128', 'longitude': '-74.0060'}}
+2024-11-24 15:36:12,316 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7128, -74.006) and (40.7129, -74.0061).
+2024-11-24 15:36:12,316 - INFO - Recorded ISS data: {'timestamp': 1609459260, 'message': 'success', 'iss_position': {'latitude': '40.7129', 'longitude': '-74.0061'}}
+2024-11-24 15:36:12,421 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7129, -74.0061) and (40.7128, -74.006).
+2024-11-24 15:36:12,421 - INFO - Recorded ISS data: {'timestamp': 1609459200, 'message': 'success', 'iss_position': {'latitude': '40.7128', 'longitude': '-74.0060'}}
+2024-11-24 15:36:12,522 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7128, -74.006) and (40.7129, -74.0061).
+2024-11-24 15:36:12,522 - INFO - Recorded ISS data: {'timestamp': 1609459260, 'message': 'success', 'iss_position': {'latitude': '40.7129', 'longitude': '-74.0061'}}
+2024-11-24 15:36:12,627 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7129, -74.0061) and (40.7128, -74.006).
+2024-11-24 15:36:12,628 - INFO - Recorded ISS data: {'timestamp': 1609459200, 'message': 'success', 'iss_position': {'latitude': '40.7128', 'longitude': '-74.0060'}}
+2024-11-24 15:36:12,729 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7128, -74.006) and (40.7129, -74.0061).
+2024-11-24 15:36:12,730 - INFO - Recorded ISS data: {'timestamp': 1609459260, 'message': 'success', 'iss_position': {'latitude': '40.7129', 'longitude': '-74.0061'}}
+2024-11-24 15:36:12,831 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7129, -74.0061) and (40.7128, -74.006).
+2024-11-24 15:36:12,832 - INFO - Recorded ISS data: {'timestamp': 1609459200, 'message': 'success', 'iss_position': {'latitude': '40.7128', 'longitude': '-74.0060'}}
+2024-11-24 15:36:12,937 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7128, -74.006) and (40.7129, -74.0061).
+2024-11-24 15:36:12,937 - INFO - Recorded ISS data: {'timestamp': 1609459260, 'message': 'success', 'iss_position': {'latitude': '40.7129', 'longitude': '-74.0061'}}
+2024-11-24 15:36:13,042 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7129, -74.0061) and (40.7128, -74.006).
+2024-11-24 15:36:13,043 - INFO - Recorded ISS data: {'timestamp': 1609459200, 'message': 'success', 'iss_position': {'latitude': '40.7128', 'longitude': '-74.0060'}}
+2024-11-24 15:36:13,148 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7128, -74.006) and (40.7129, -74.0061).
+2024-11-24 15:36:13,149 - INFO - Recorded ISS data: {'timestamp': 1609459260, 'message': 'success', 'iss_position': {'latitude': '40.7129', 'longitude': '-74.0061'}}
+2024-11-24 15:36:13,250 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7129, -74.0061) and (40.7128, -74.006).
+2024-11-24 15:36:13,250 - INFO - Recorded ISS data: {'timestamp': 1609459200, 'message': 'success', 'iss_position': {'latitude': '40.7128', 'longitude': '-74.0060'}}
+2024-11-24 15:36:13,355 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7128, -74.006) and (40.7129, -74.0061).
+2024-11-24 15:36:13,355 - INFO - Recorded ISS data: {'timestamp': 1609459260, 'message': 'success', 'iss_position': {'latitude': '40.7129', 'longitude': '-74.0061'}}
+2024-11-24 15:36:13,461 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7129, -74.0061) and (40.7128, -74.006).
+2024-11-24 15:36:13,461 - INFO - Recorded ISS data: {'timestamp': 1609459200, 'message': 'success', 'iss_position': {'latitude': '40.7128', 'longitude': '-74.0060'}}
+2024-11-24 15:36:13,562 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7128, -74.006) and (40.7129, -74.0061).
+2024-11-24 15:36:13,563 - INFO - Recorded ISS data: {'timestamp': 1609459260, 'message': 'success', 'iss_position': {'latitude': '40.7129', 'longitude': '-74.0061'}}
+2024-11-24 15:36:13,666 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7129, -74.0061) and (40.7128, -74.006).
+2024-11-24 15:36:13,666 - INFO - Recorded ISS data: {'timestamp': 1609459200, 'message': 'success', 'iss_position': {'latitude': '40.7128', 'longitude': '-74.0060'}}
+2024-11-24 15:36:13,770 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7128, -74.006) and (40.7129, -74.0061).
+2024-11-24 15:36:13,771 - INFO - Recorded ISS data: {'timestamp': 1609459260, 'message': 'success', 'iss_position': {'latitude': '40.7129', 'longitude': '-74.0061'}}
+2024-11-24 15:36:13,875 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7129, -74.0061) and (40.7128, -74.006).
+2024-11-24 15:36:13,875 - INFO - Recorded ISS data: {'timestamp': 1609459200, 'message': 'success', 'iss_position': {'latitude': '40.7128', 'longitude': '-74.0060'}}
+2024-11-24 15:36:13,979 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7128, -74.006) and (40.7129, -74.0061).
+2024-11-24 15:36:13,979 - INFO - Recorded ISS data: {'timestamp': 1609459260, 'message': 'success', 'iss_position': {'latitude': '40.7129', 'longitude': '-74.0061'}}
+2024-11-24 15:36:14,085 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7129, -74.0061) and (40.7128, -74.006).
+2024-11-24 15:36:14,085 - INFO - Recorded ISS data: {'timestamp': 1609459200, 'message': 'success', 'iss_position': {'latitude': '40.7128', 'longitude': '-74.0060'}}
+2024-11-24 15:36:14,188 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7128, -74.006) and (40.7129, -74.0061).
+2024-11-24 15:36:14,188 - INFO - Recorded ISS data: {'timestamp': 1609459260, 'message': 'success', 'iss_position': {'latitude': '40.7129', 'longitude': '-74.0061'}}
+2024-11-24 15:36:14,291 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7129, -74.0061) and (40.7128, -74.006).
+2024-11-24 15:36:14,292 - INFO - Recorded ISS data: {'timestamp': 1609459200, 'message': 'success', 'iss_position': {'latitude': '40.7128', 'longitude': '-74.0060'}}
+2024-11-24 15:36:14,395 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7128, -74.006) and (40.7129, -74.0061).
+2024-11-24 15:36:14,396 - INFO - Recorded ISS data: {'timestamp': 1609459260, 'message': 'success', 'iss_position': {'latitude': '40.7129', 'longitude': '-74.0061'}}
+2024-11-24 15:36:14,500 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7129, -74.0061) and (40.7128, -74.006).
+2024-11-24 15:36:14,500 - INFO - Recorded ISS data: {'timestamp': 1609459200, 'message': 'success', 'iss_position': {'latitude': '40.7128', 'longitude': '-74.0060'}}
+2024-11-24 15:36:14,601 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7128, -74.006) and (40.7129, -74.0061).
+2024-11-24 15:36:14,601 - INFO - Recorded ISS data: {'timestamp': 1609459260, 'message': 'success', 'iss_position': {'latitude': '40.7129', 'longitude': '-74.0061'}}
+2024-11-24 15:36:14,709 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7129, -74.0061) and (40.7128, -74.006).
+2024-11-24 15:36:14,709 - INFO - Recorded ISS data: {'timestamp': 1609459200, 'message': 'success', 'iss_position': {'latitude': '40.7128', 'longitude': '-74.0060'}}
+2024-11-24 15:36:14,811 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7128, -74.006) and (40.7129, -74.0061).
+2024-11-24 15:36:14,811 - INFO - Recorded ISS data: {'timestamp': 1609459260, 'message': 'success', 'iss_position': {'latitude': '40.7129', 'longitude': '-74.0061'}}
+2024-11-24 15:36:14,915 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7129, -74.0061) and (40.7128, -74.006).
+2024-11-24 15:36:14,915 - INFO - Recorded ISS data: {'timestamp': 1609459200, 'message': 'success', 'iss_position': {'latitude': '40.7128', 'longitude': '-74.0060'}}
+2024-11-24 15:36:15,020 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7128, -74.006) and (40.7129, -74.0061).
+2024-11-24 15:36:15,020 - INFO - Recorded ISS data: {'timestamp': 1609459260, 'message': 'success', 'iss_position': {'latitude': '40.7129', 'longitude': '-74.0061'}}
+2024-11-24 15:36:15,124 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7129, -74.0061) and (40.7128, -74.006).
+2024-11-24 15:36:15,125 - INFO - Recorded ISS data: {'timestamp': 1609459200, 'message': 'success', 'iss_position': {'latitude': '40.7128', 'longitude': '-74.0060'}}
+2024-11-24 15:36:15,226 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7128, -74.006) and (40.7129, -74.0061).
+2024-11-24 15:36:15,226 - INFO - Recorded ISS data: {'timestamp': 1609459260, 'message': 'success', 'iss_position': {'latitude': '40.7129', 'longitude': '-74.0061'}}
+2024-11-24 15:36:15,331 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7129, -74.0061) and (40.7128, -74.006).
+2024-11-24 15:36:15,331 - INFO - Recorded ISS data: {'timestamp': 1609459200, 'message': 'success', 'iss_position': {'latitude': '40.7128', 'longitude': '-74.0060'}}
+2024-11-24 15:36:15,436 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7128, -74.006) and (40.7129, -74.0061).
+2024-11-24 15:36:15,437 - INFO - Recorded ISS data: {'timestamp': 1609459260, 'message': 'success', 'iss_position': {'latitude': '40.7129', 'longitude': '-74.0061'}}
+2024-11-24 15:36:15,539 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7129, -74.0061) and (40.7128, -74.006).
+2024-11-24 15:36:15,540 - INFO - Recorded ISS data: {'timestamp': 1609459200, 'message': 'success', 'iss_position': {'latitude': '40.7128', 'longitude': '-74.0060'}}
+2024-11-24 15:36:15,645 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7128, -74.006) and (40.7129, -74.0061).
+2024-11-24 15:36:15,646 - INFO - Recorded ISS data: {'timestamp': 1609459260, 'message': 'success', 'iss_position': {'latitude': '40.7129', 'longitude': '-74.0061'}}
+2024-11-24 15:36:15,749 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7129, -74.0061) and (40.7128, -74.006).
+2024-11-24 15:36:15,749 - INFO - Recorded ISS data: {'timestamp': 1609459200, 'message': 'success', 'iss_position': {'latitude': '40.7128', 'longitude': '-74.0060'}}
+2024-11-24 15:36:15,850 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7128, -74.006) and (40.7129, -74.0061).
+2024-11-24 15:36:15,850 - INFO - Recorded ISS data: {'timestamp': 1609459260, 'message': 'success', 'iss_position': {'latitude': '40.7129', 'longitude': '-74.0061'}}
+2024-11-24 15:36:15,955 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7129, -74.0061) and (40.7128, -74.006).
+2024-11-24 15:36:15,956 - INFO - Recorded ISS data: {'timestamp': 1609459200, 'message': 'success', 'iss_position': {'latitude': '40.7128', 'longitude': '-74.0060'}}
+2024-11-24 15:36:16,059 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7128, -74.006) and (40.7129, -74.0061).
+2024-11-24 15:36:16,060 - INFO - Recorded ISS data: {'timestamp': 1609459260, 'message': 'success', 'iss_position': {'latitude': '40.7129', 'longitude': '-74.0061'}}
+2024-11-24 15:36:16,162 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7129, -74.0061) and (40.7128, -74.006).
+2024-11-24 15:36:16,162 - INFO - Recorded ISS data: {'timestamp': 1609459200, 'message': 'success', 'iss_position': {'latitude': '40.7128', 'longitude': '-74.0060'}}
+2024-11-24 15:36:16,268 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7128, -74.006) and (40.7129, -74.0061).
+2024-11-24 15:36:16,268 - INFO - Recorded ISS data: {'timestamp': 1609459260, 'message': 'success', 'iss_position': {'latitude': '40.7129', 'longitude': '-74.0061'}}
+2024-11-24 15:36:16,372 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7129, -74.0061) and (40.7128, -74.006).
+2024-11-24 15:36:16,373 - INFO - Recorded ISS data: {'timestamp': 1609459200, 'message': 'success', 'iss_position': {'latitude': '40.7128', 'longitude': '-74.0060'}}
+2024-11-24 15:36:16,478 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7128, -74.006) and (40.7129, -74.0061).
+2024-11-24 15:36:16,478 - INFO - Recorded ISS data: {'timestamp': 1609459260, 'message': 'success', 'iss_position': {'latitude': '40.7129', 'longitude': '-74.0061'}}
+2024-11-24 15:36:16,583 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7129, -74.0061) and (40.7128, -74.006).
+2024-11-24 15:36:16,583 - INFO - Recorded ISS data: {'timestamp': 1609459200, 'message': 'success', 'iss_position': {'latitude': '40.7128', 'longitude': '-74.0060'}}
+2024-11-24 15:36:16,689 - DEBUG - Calculated distance: 0.013952840731264276 km between (40.7128, -74.006) and (40.7129, -74.0061).
+2024-11-24 15:36:16,689 - INFO - Recorded ISS data: {'timestamp': 1609459260, 'message': 'success', 'iss_position': {'latitude': '40.7129', 'longitude': '-74.0061'}}
+2024-11-24 15:36:16,689 - INFO - Tracking complete.

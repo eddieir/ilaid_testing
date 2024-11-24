@@ -1,0 +1,615 @@
+2024-11-24 10:59:39,815 - INFO - Starting ISS speed tracking.
+2024-11-24 10:59:39,821 - DEBUG - Starting new HTTP connection (1): api.open-notify.org:80
+2024-11-24 10:59:40,182 - DEBUG - http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 114
+2024-11-24 10:59:40,183 - INFO - API responded in 0.37 seconds.
+2024-11-24 10:59:40,183 - DEBUG - Received ISS position: latitude=-40.4562, longitude=-14.6899.
+2024-11-24 10:59:40,184 - INFO - Results saved to iss_speed_results.json.
+2024-11-24 10:59:41,194 - DEBUG - Starting new HTTP connection (1): api.open-notify.org:80
+2024-11-24 10:59:42,561 - DEBUG - http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 114
+2024-11-24 10:59:42,562 - INFO - API responded in 1.37 seconds.
+2024-11-24 10:59:42,562 - DEBUG - Received ISS position: latitude=-40.3626, longitude=-14.5272.
+2024-11-24 11:00:10,839 - INFO - Starting ISS speed tracking.
+2024-11-24 11:00:10,845 - DEBUG - Starting new HTTP connection (1): api.open-notify.org:80
+2024-11-24 11:00:11,215 - DEBUG - http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 114
+2024-11-24 11:00:11,218 - INFO - API responded in 0.38 seconds.
+2024-11-24 11:00:11,218 - DEBUG - Received ISS position: latitude=-39.2769, longitude=-12.7065.
+2024-11-24 11:00:11,220 - INFO - Results saved to iss_speed_results.json.
+2024-11-24 11:00:12,230 - DEBUG - Starting new HTTP connection (1): api.open-notify.org:80
+2024-11-24 11:00:13,598 - DEBUG - http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 114
+2024-11-24 11:00:13,599 - INFO - API responded in 1.37 seconds.
+2024-11-24 11:00:13,600 - DEBUG - Received ISS position: latitude=-39.1801, longitude=-12.5497.
+2024-11-24 11:00:13,600 - DEBUG - Calculated distance: 17.270415608856503 km between (-39.2769, -12.7065) and (-39.1801, -12.5497).
+2024-11-24 11:00:13,600 - INFO - Current speed of ISS: 26105.41 km/h at 2024-11-24 10:00:13.
+2024-11-24 11:00:13,601 - INFO - Results saved to iss_speed_results.json.
+2024-11-24 11:00:14,611 - DEBUG - Starting new HTTP connection (1): api.open-notify.org:80
+2024-11-24 11:00:14,979 - DEBUG - http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 114
+2024-11-24 11:00:14,979 - INFO - API responded in 0.37 seconds.
+2024-11-24 11:00:14,981 - DEBUG - Received ISS position: latitude=-39.1413, longitude=-12.4871.
+2024-11-24 11:00:14,983 - DEBUG - Calculated distance: 6.909707101054217 km between (-39.1801, -12.5497) and (-39.1413, -12.4871).
+2024-11-24 11:00:14,983 - INFO - Current speed of ISS: 17986.64 km/h at 2024-11-24 10:00:14.
+2024-11-24 11:00:14,987 - INFO - Results saved to iss_speed_results.json.
+2024-11-24 11:00:15,997 - DEBUG - Starting new HTTP connection (1): api.open-notify.org:80
+2024-11-24 11:00:16,358 - DEBUG - http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 114
+2024-11-24 11:00:16,359 - INFO - API responded in 0.36 seconds.
+2024-11-24 11:00:16,359 - DEBUG - Received ISS position: latitude=-39.0831, longitude=-12.3934.
+2024-11-24 11:00:16,359 - DEBUG - Calculated distance: 10.355441560023277 km between (-39.1413, -12.4871) and (-39.0831, -12.3934).
+2024-11-24 11:00:16,359 - INFO - Current speed of ISS: 27092.06 km/h at 2024-11-24 10:00:16.
+2024-11-24 11:00:16,359 - INFO - Results saved to iss_speed_results.json.
+2024-11-24 11:00:17,365 - DEBUG - Starting new HTTP connection (1): api.open-notify.org:80
+2024-11-24 11:00:17,733 - DEBUG - http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 114
+2024-11-24 11:00:17,735 - INFO - API responded in 0.37 seconds.
+2024-11-24 11:00:17,735 - DEBUG - Received ISS position: latitude=-39.0248, longitude=-12.2998.
+2024-11-24 11:00:17,735 - DEBUG - Calculated distance: 10.36086764507015 km between (-39.0831, -12.3934) and (-39.0248, -12.2998).
+2024-11-24 11:00:17,736 - INFO - Current speed of ISS: 27093.41 km/h at 2024-11-24 10:00:17.
+2024-11-24 11:00:17,736 - INFO - Results saved to iss_speed_results.json.
+2024-11-24 11:00:18,749 - DEBUG - Starting new HTTP connection (1): api.open-notify.org:80
+2024-11-24 11:00:19,137 - DEBUG - http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 114
+2024-11-24 11:00:19,138 - INFO - API responded in 0.40 seconds.
+2024-11-24 11:00:19,138 - DEBUG - Received ISS position: latitude=-38.9664, longitude=-12.2065.
+2024-11-24 11:00:19,138 - DEBUG - Calculated distance: 10.352827669929876 km between (-39.0248, -12.2998) and (-38.9664, -12.2065).
+2024-11-24 11:00:19,139 - INFO - Current speed of ISS: 26563.38 km/h at 2024-11-24 10:00:19.
+2024-11-24 11:00:19,139 - INFO - Results saved to iss_speed_results.json.
+2024-11-24 11:00:20,145 - DEBUG - Starting new HTTP connection (1): api.open-notify.org:80
+2024-11-24 11:00:22,512 - DEBUG - http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 114
+2024-11-24 11:00:22,514 - INFO - API responded in 2.37 seconds.
+2024-11-24 11:00:22,514 - DEBUG - Received ISS position: latitude=-38.8494, longitude=-12.0201.
+2024-11-24 11:00:22,514 - DEBUG - Calculated distance: 20.72167632796023 km between (-38.9664, -12.2065) and (-38.8494, -12.0201).
+2024-11-24 11:00:22,514 - INFO - Current speed of ISS: 22096.76 km/h at 2024-11-24 10:00:22.
+2024-11-24 11:00:22,516 - INFO - Results saved to iss_speed_results.json.
+2024-11-24 11:00:23,523 - DEBUG - Starting new HTTP connection (1): api.open-notify.org:80
+2024-11-24 11:00:23,910 - DEBUG - http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 114
+2024-11-24 11:00:23,911 - INFO - API responded in 0.39 seconds.
+2024-11-24 11:00:23,911 - DEBUG - Received ISS position: latitude=-38.7908, longitude=-11.9272.
+2024-11-24 11:00:23,911 - DEBUG - Calculated distance: 10.355366223793428 km between (-38.8494, -12.0201) and (-38.7908, -11.9272).
+2024-11-24 11:00:23,911 - INFO - Current speed of ISS: 26685.76 km/h at 2024-11-24 10:00:23.
+2024-11-24 11:00:23,912 - INFO - Results saved to iss_speed_results.json.
+2024-11-24 11:00:24,921 - DEBUG - Starting new HTTP connection (1): api.open-notify.org:80
+2024-11-24 11:00:25,288 - DEBUG - http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 114
+2024-11-24 11:00:25,289 - INFO - API responded in 0.37 seconds.
+2024-11-24 11:00:25,289 - DEBUG - Received ISS position: latitude=-38.7320, longitude=-11.8345.
+2024-11-24 11:00:25,289 - DEBUG - Calculated distance: 10.361063109480227 km between (-38.7908, -11.9272) and (-38.732, -11.8345).
+2024-11-24 11:00:25,289 - INFO - Current speed of ISS: 27069.41 km/h at 2024-11-24 10:00:25.
+2024-11-24 11:00:25,290 - INFO - Results saved to iss_speed_results.json.
+2024-11-24 11:00:26,299 - DEBUG - Starting new HTTP connection (1): api.open-notify.org:80
+2024-11-24 11:00:29,665 - DEBUG - http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 114
+2024-11-24 11:00:29,666 - INFO - API responded in 3.37 seconds.
+2024-11-24 11:00:29,666 - DEBUG - Received ISS position: latitude=-38.5553, longitude=-11.5572.
+2024-11-24 11:00:29,666 - DEBUG - Calculated distance: 31.081174609707087 km between (-38.732, -11.8345) and (-38.5553, -11.5572).
+2024-11-24 11:00:29,666 - INFO - Current speed of ISS: 25566.21 km/h at 2024-11-24 10:00:29.
+2024-11-24 11:00:29,666 - INFO - Results saved to iss_speed_results.json.
+2024-11-24 11:00:30,673 - DEBUG - Starting new HTTP connection (1): api.open-notify.org:80
+2024-11-24 11:00:31,042 - DEBUG - http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 114
+2024-11-24 11:00:31,042 - INFO - API responded in 0.37 seconds.
+2024-11-24 11:00:31,042 - DEBUG - Received ISS position: latitude=-38.5160, longitude=-11.4958.
+2024-11-24 11:00:31,042 - DEBUG - Calculated distance: 6.900549640670443 km between (-38.5553, -11.5572) and (-38.516, -11.4958).
+2024-11-24 11:00:31,042 - INFO - Current speed of ISS: 18050.17 km/h at 2024-11-24 10:00:31.
+2024-11-24 11:00:31,042 - INFO - Results saved to iss_speed_results.json.
+2024-11-24 11:00:32,052 - DEBUG - Starting new HTTP connection (1): api.open-notify.org:80
+2024-11-24 11:00:32,420 - DEBUG - http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 114
+2024-11-24 11:00:32,421 - INFO - API responded in 0.37 seconds.
+2024-11-24 11:00:32,421 - DEBUG - Received ISS position: latitude=-38.4569, longitude=-11.4038.
+2024-11-24 11:00:32,421 - DEBUG - Calculated distance: 10.358898931156839 km between (-38.516, -11.4958) and (-38.4569, -11.4038).
+2024-11-24 11:00:32,421 - INFO - Current speed of ISS: 27040.38 km/h at 2024-11-24 10:00:32.
+2024-11-24 11:00:32,422 - INFO - Results saved to iss_speed_results.json.
+2024-11-24 11:00:33,434 - DEBUG - Starting new HTTP connection (1): api.open-notify.org:80
+2024-11-24 11:00:33,795 - DEBUG - http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 114
+2024-11-24 11:00:33,796 - INFO - API responded in 0.37 seconds.
+2024-11-24 11:00:33,796 - DEBUG - Received ISS position: latitude=-38.3977, longitude=-11.3119.
+2024-11-24 11:00:33,796 - DEBUG - Calculated distance: 10.364301420038883 km between (-38.4569, -11.4038) and (-38.3977, -11.3119).
+2024-11-24 11:00:33,796 - INFO - Current speed of ISS: 27145.87 km/h at 2024-11-24 10:00:33.
+2024-11-24 11:00:33,796 - INFO - Results saved to iss_speed_results.json.
+2024-11-24 11:00:34,807 - DEBUG - Starting new HTTP connection (1): api.open-notify.org:80
+2024-11-24 11:00:36,172 - DEBUG - http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 114
+2024-11-24 11:00:36,172 - INFO - API responded in 1.37 seconds.
+2024-11-24 11:00:36,173 - DEBUG - Received ISS position: latitude=-38.2988, longitude=-11.1592.
+2024-11-24 11:00:36,173 - DEBUG - Calculated distance: 17.270187610528488 km between (-38.3977, -11.3119) and (-38.2988, -11.1592).
+2024-11-24 11:00:36,173 - INFO - Current speed of ISS: 26157.68 km/h at 2024-11-24 10:00:36.
+2024-11-24 11:00:36,173 - INFO - Results saved to iss_speed_results.json.
+2024-11-24 11:00:37,180 - DEBUG - Starting new HTTP connection (1): api.open-notify.org:80
+2024-11-24 11:00:40,542 - DEBUG - http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 114
+2024-11-24 11:00:40,544 - INFO - API responded in 3.37 seconds.
+2024-11-24 11:00:40,544 - DEBUG - Received ISS position: latitude=-38.1402, longitude=-10.9157.
+2024-11-24 11:00:40,544 - DEBUG - Calculated distance: 27.631756766253964 km between (-38.2988, -11.1592) and (-38.1402, -10.9157).
+2024-11-24 11:00:40,544 - INFO - Current speed of ISS: 22754.31 km/h at 2024-11-24 10:00:40.
+2024-11-24 11:00:40,545 - INFO - Results saved to iss_speed_results.json.
+2024-11-24 11:00:41,554 - DEBUG - Starting new HTTP connection (1): api.open-notify.org:80
+2024-11-24 11:00:46,923 - DEBUG - http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 114
+2024-11-24 11:00:46,925 - INFO - API responded in 5.38 seconds.
+2024-11-24 11:00:46,925 - DEBUG - Received ISS position: latitude=-37.8811, longitude=-10.5226.
+2024-11-24 11:00:46,925 - DEBUG - Calculated distance: 44.90126920818701 km between (-38.1402, -10.9157) and (-37.8811, -10.5226).
+2024-11-24 11:00:46,926 - INFO - Current speed of ISS: 25331.34 km/h at 2024-11-24 10:00:46.
+2024-11-24 11:00:46,927 - INFO - Results saved to iss_speed_results.json.
+2024-11-24 11:00:46,927 - INFO - Tracking complete.
+2024-11-24 11:01:07,940 - INFO - Starting ISS speed tracking.
+2024-11-24 11:01:07,946 - DEBUG - Starting new HTTP connection (1): api.open-notify.org:80
+2024-11-24 11:01:08,309 - DEBUG - http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 113
+2024-11-24 11:01:08,309 - INFO - API responded in 0.37 seconds.
+2024-11-24 11:01:08,309 - DEBUG - Received ISS position: latitude=-37.0141, longitude=-9.2432.
+2024-11-24 11:01:08,310 - INFO - Results saved to test_iss_results.json.
+2024-11-24 11:01:09,320 - DEBUG - Starting new HTTP connection (1): api.open-notify.org:80
+2024-11-24 11:01:14,712 - DEBUG - http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 113
+2024-11-24 11:01:14,713 - INFO - API responded in 5.40 seconds.
+2024-11-24 11:01:14,713 - DEBUG - Received ISS position: latitude=-36.7489, longitude=-8.8626.
+2024-11-24 11:01:14,713 - DEBUG - Calculated distance: 44.894444688960434 km between (-37.0141, -9.2432) and (-36.7489, -8.8626).
+2024-11-24 11:01:14,713 - INFO - Current speed of ISS: 25241.02 km/h at 2024-11-24 10:01:14.
+2024-11-24 11:01:14,713 - INFO - Results saved to test_iss_results.json.
+2024-11-24 11:01:14,713 - INFO - Tracking complete.
+2024-11-24 11:01:14,714 - INFO - Starting ISS speed tracking.
+2024-11-24 11:01:15,716 - DEBUG - Calculated distance: 0.0735106245666925 km between (48.8566, 2.3522) and (48.857, 2.353).
+2024-11-24 11:01:15,716 - INFO - Current speed of ISS: 264.23 km/h at 2024-11-24 10:01:15.
+2024-11-24 11:01:16,729 - DEBUG - Calculated distance: 0.0735106245666925 km between (48.857, 2.353) and (48.8566, 2.3522).
+2024-11-24 11:01:16,729 - INFO - Current speed of ISS: 261.31 km/h at 2024-11-24 10:01:16.
+2024-11-24 11:01:16,729 - INFO - Tracking complete.
+2024-11-24 11:01:20,978 - ERROR - Error fetching ISS position: Network is unreachable
+2024-11-24 11:01:20,978 - INFO - API responded in 0.00 seconds.
+2024-11-24 11:01:20,978 - DEBUG - Received ISS position: latitude=48.4406, longitude=-87.2757.
+2024-11-24 11:01:20,978 - INFO - API responded in 0.00 seconds.
+2024-11-24 11:01:20,978 - DEBUG - Received ISS position: latitude=48.4410, longitude=-87.2750.
+2024-11-24 11:01:28,860 - ERROR - Error fetching ISS position: 
+2024-11-24 11:01:28,861 - ERROR - Error fetching ISS position: 
+2024-11-24 11:01:28,862 - INFO - API responded in 0.00 seconds.
+2024-11-24 11:01:28,862 - WARNING - API response does not contain valid ISS position data.
+2024-11-24 11:01:28,862 - INFO - API responded in 0.00 seconds.
+2024-11-24 11:01:28,862 - WARNING - API response does not contain valid ISS position data.
+2024-11-24 11:01:28,863 - INFO - API responded in 0.00 seconds.
+2024-11-24 11:01:28,863 - DEBUG - Received ISS position: latitude=47.6062, longitude=-122.3321.
+2024-11-24 11:13:30,219 - INFO - Starting ISS speed tracking.
+2024-11-24 11:13:30,225 - DEBUG - Starting new HTTP connection (1): api.open-notify.org:80
+2024-11-24 11:13:31,589 - DEBUG - http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 112
+2024-11-24 11:13:31,590 - INFO - API responded in 1.37 seconds.
+2024-11-24 11:13:31,590 - DEBUG - Received ISS position: latitude=-1.6804, longitude=22.9405.
+2024-11-24 11:13:31,591 - INFO - Results saved to iss_speed_results.json.
+2024-11-24 11:13:32,607 - DEBUG - Starting new HTTP connection (1): api.open-notify.org:80
+2024-11-24 11:13:36,986 - DEBUG - http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 112
+2024-11-24 11:13:36,991 - INFO - API responded in 4.40 seconds.
+2024-11-24 11:13:36,991 - DEBUG - Received ISS position: latitude=-1.4013, longitude=23.1384.
+2024-11-24 11:13:36,992 - DEBUG - Calculated distance: 38.03985175765714 km between (-1.6804, 22.9405) and (-1.4013, 23.1384).
+2024-11-24 11:13:36,992 - INFO - Recorded ISS data: {'timestamp': 1732443216, 'message': 'success', 'iss_position': {'latitude': '-1.4013', 'longitude': '23.1384'}}
+2024-11-24 11:13:36,993 - INFO - Results saved to iss_speed_results.json.
+2024-11-24 11:13:37,999 - DEBUG - Starting new HTTP connection (1): api.open-notify.org:80
+2024-11-24 11:13:43,367 - DEBUG - http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 112
+2024-11-24 11:13:43,368 - INFO - API responded in 5.37 seconds.
+2024-11-24 11:13:43,369 - DEBUG - Received ISS position: latitude=-1.0968, longitude=23.3542.
+2024-11-24 11:13:43,369 - DEBUG - Calculated distance: 41.496369237475555 km between (-1.4013, 23.1384) and (-1.0968, 23.3542).
+2024-11-24 11:13:43,369 - INFO - Recorded ISS data: {'timestamp': 1732443222, 'message': 'success', 'iss_position': {'latitude': '-1.0968', 'longitude': '23.3542'}}
+2024-11-24 11:13:43,370 - INFO - Results saved to iss_speed_results.json.
+2024-11-24 11:13:44,378 - DEBUG - Starting new HTTP connection (1): api.open-notify.org:80
+2024-11-24 11:13:48,741 - DEBUG - http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 112
+2024-11-24 11:13:48,742 - INFO - API responded in 4.37 seconds.
+2024-11-24 11:13:48,742 - DEBUG - Received ISS position: latitude=-0.8178, longitude=23.5520.
+2024-11-24 11:13:48,743 - DEBUG - Calculated distance: 38.02717604514442 km between (-1.0968, 23.3542) and (-0.8178, 23.552).
+2024-11-24 11:13:48,743 - INFO - Recorded ISS data: {'timestamp': 1732443228, 'message': 'success', 'iss_position': {'latitude': '-0.8178', 'longitude': '23.5520'}}
+2024-11-24 11:13:48,744 - INFO - Results saved to iss_speed_results.json.
+2024-11-24 11:13:49,753 - DEBUG - Starting new HTTP connection (1): api.open-notify.org:80
+2024-11-24 11:13:51,118 - DEBUG - http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 112
+2024-11-24 11:13:51,118 - INFO - API responded in 1.37 seconds.
+2024-11-24 11:13:51,118 - DEBUG - Received ISS position: latitude=-0.6909, longitude=23.6419.
+2024-11-24 11:13:51,119 - DEBUG - Calculated distance: 17.29222897938799 km between (-0.8178, 23.552) and (-0.6909, 23.6419).
+2024-11-24 11:13:51,119 - INFO - Recorded ISS data: {'timestamp': 1732443230, 'message': 'success', 'iss_position': {'latitude': '-0.6909', 'longitude': '23.6419'}}
+2024-11-24 11:13:51,119 - INFO - Results saved to iss_speed_results.json.
+2024-11-24 11:13:52,128 - DEBUG - Starting new HTTP connection (1): api.open-notify.org:80
+2024-11-24 11:13:52,494 - DEBUG - http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 112
+2024-11-24 11:13:52,496 - INFO - API responded in 0.37 seconds.
+2024-11-24 11:13:52,496 - DEBUG - Received ISS position: latitude=-0.6148, longitude=23.6958.
+2024-11-24 11:13:52,496 - DEBUG - Calculated distance: 10.369213031392393 km between (-0.6909, 23.6419) and (-0.6148, 23.6958).
+2024-11-24 11:13:52,496 - INFO - Recorded ISS data: {'timestamp': 1732443232, 'message': 'success', 'iss_position': {'latitude': '-0.6148', 'longitude': '23.6958'}}
+2024-11-24 11:13:52,497 - INFO - Results saved to iss_speed_results.json.
+2024-11-24 11:13:53,502 - DEBUG - Starting new HTTP connection (1): api.open-notify.org:80
+2024-11-24 11:13:53,869 - DEBUG - http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 112
+2024-11-24 11:13:53,870 - INFO - API responded in 0.37 seconds.
+2024-11-24 11:13:53,870 - DEBUG - Received ISS position: latitude=-0.5640, longitude=23.7318.
+2024-11-24 11:13:53,870 - DEBUG - Calculated distance: 6.923170419643412 km between (-0.6148, 23.6958) and (-0.564, 23.7318).
+2024-11-24 11:13:53,870 - INFO - Recorded ISS data: {'timestamp': 1732443233, 'message': 'success', 'iss_position': {'latitude': '-0.5640', 'longitude': '23.7318'}}
+2024-11-24 11:13:53,871 - INFO - Results saved to iss_speed_results.json.
+2024-11-24 11:13:54,878 - DEBUG - Starting new HTTP connection (1): api.open-notify.org:80
+2024-11-24 11:13:55,264 - DEBUG - http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 112
+2024-11-24 11:13:55,266 - INFO - API responded in 0.39 seconds.
+2024-11-24 11:13:55,266 - DEBUG - Received ISS position: latitude=-0.4879, longitude=23.7857.
+2024-11-24 11:13:55,266 - DEBUG - Calculated distance: 10.369291952956113 km between (-0.564, 23.7318) and (-0.4879, 23.7857).
+2024-11-24 11:13:55,266 - INFO - Recorded ISS data: {'timestamp': 1732443234, 'message': 'success', 'iss_position': {'latitude': '-0.4879', 'longitude': '23.7857'}}
+2024-11-24 11:13:55,267 - INFO - Results saved to iss_speed_results.json.
+2024-11-24 11:13:56,274 - DEBUG - Starting new HTTP connection (1): api.open-notify.org:80
+2024-11-24 11:13:57,637 - DEBUG - http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 112
+2024-11-24 11:13:57,639 - INFO - API responded in 1.37 seconds.
+2024-11-24 11:13:57,639 - DEBUG - Received ISS position: latitude=-0.3611, longitude=23.8756.
+2024-11-24 11:13:57,639 - DEBUG - Calculated distance: 17.283498952727754 km between (-0.4879, 23.7857) and (-0.3611, 23.8756).
+2024-11-24 11:13:57,639 - INFO - Recorded ISS data: {'timestamp': 1732443237, 'message': 'success', 'iss_position': {'latitude': '-0.3611', 'longitude': '23.8756'}}
+2024-11-24 11:13:57,642 - INFO - Results saved to iss_speed_results.json.
+2024-11-24 11:13:58,652 - DEBUG - Starting new HTTP connection (1): api.open-notify.org:80
+2024-11-24 11:13:59,016 - DEBUG - http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 112
+2024-11-24 11:13:59,018 - INFO - API responded in 0.37 seconds.
+2024-11-24 11:13:59,018 - DEBUG - Received ISS position: latitude=-0.2850, longitude=23.9295.
+2024-11-24 11:13:59,018 - DEBUG - Calculated distance: 10.369382838394376 km between (-0.3611, 23.8756) and (-0.285, 23.9295).
+2024-11-24 11:13:59,018 - INFO - Recorded ISS data: {'timestamp': 1732443238, 'message': 'success', 'iss_position': {'latitude': '-0.2850', 'longitude': '23.9295'}}
+2024-11-24 11:13:59,019 - INFO - Results saved to iss_speed_results.json.
+2024-11-24 11:14:00,031 - DEBUG - Starting new HTTP connection (1): api.open-notify.org:80
+2024-11-24 11:14:00,396 - DEBUG - http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 112
+2024-11-24 11:14:00,399 - INFO - API responded in 0.38 seconds.
+2024-11-24 11:14:00,399 - DEBUG - Received ISS position: latitude=-0.2342, longitude=23.9654.
+2024-11-24 11:14:00,399 - DEBUG - Calculated distance: 6.916845941493656 km between (-0.285, 23.9295) and (-0.2342, 23.9654).
+2024-11-24 11:14:00,399 - INFO - Recorded ISS data: {'timestamp': 1732443239, 'message': 'success', 'iss_position': {'latitude': '-0.2342', 'longitude': '23.9654'}}
+2024-11-24 11:14:00,400 - INFO - Results saved to iss_speed_results.json.
+2024-11-24 11:14:01,409 - DEBUG - Starting new HTTP connection (1): api.open-notify.org:80
+2024-11-24 11:14:05,775 - DEBUG - http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 111
+2024-11-24 11:14:05,776 - INFO - API responded in 4.37 seconds.
+2024-11-24 11:14:05,776 - DEBUG - Received ISS position: latitude=0.0449, longitude=24.1631.
+2024-11-24 11:14:05,776 - DEBUG - Calculated distance: 38.03157733590653 km between (-0.2342, 23.9654) and (0.0449, 24.1631).
+2024-11-24 11:14:05,776 - INFO - Recorded ISS data: {'timestamp': 1732443245, 'message': 'success', 'iss_position': {'latitude': '0.0449', 'longitude': '24.1631'}}
+2024-11-24 11:14:05,777 - INFO - Results saved to iss_speed_results.json.
+2024-11-24 11:14:05,777 - INFO - Tracking complete.
+2024-11-24 11:14:28,851 - ERROR - Error fetching ISS position: 
+2024-11-24 11:14:28,853 - ERROR - Error fetching ISS position: 
+2024-11-24 11:14:28,854 - INFO - API responded in 0.00 seconds.
+2024-11-24 11:14:28,854 - WARNING - API response does not contain valid ISS position data.
+2024-11-24 11:14:28,855 - INFO - API responded in 0.00 seconds.
+2024-11-24 11:14:28,855 - WARNING - API response does not contain valid ISS position data.
+2024-11-24 11:14:28,855 - INFO - API responded in 0.00 seconds.
+2024-11-24 11:14:28,855 - DEBUG - Received ISS position: latitude=47.6062, longitude=-122.3321.
+2024-11-24 11:14:54,758 - ERROR - Error fetching ISS position: Network is unreachable
+2024-11-24 11:14:54,760 - INFO - API responded in 0.00 seconds.
+2024-11-24 11:14:54,760 - DEBUG - Received ISS position: latitude=48.4406, longitude=-87.2757.
+2024-11-24 11:15:03,574 - INFO - Starting ISS speed tracking.
+2024-11-24 11:15:03,580 - DEBUG - Starting new HTTP connection (1): api.open-notify.org:80
+2024-11-24 11:15:05,945 - DEBUG - http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 111
+2024-11-24 11:15:05,949 - INFO - API responded in 2.37 seconds.
+2024-11-24 11:15:05,949 - DEBUG - Received ISS position: latitude=3.0889, longitude=26.3225.
+2024-11-24 11:15:05,950 - INFO - Results saved to test_iss_results.json.
+2024-11-24 11:15:06,960 - DEBUG - Starting new HTTP connection (1): api.open-notify.org:80
+2024-11-24 11:15:08,327 - DEBUG - http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 111
+2024-11-24 11:15:08,328 - INFO - API responded in 1.37 seconds.
+2024-11-24 11:15:08,328 - DEBUG - Received ISS position: latitude=3.2156, longitude=26.4127.
+2024-11-24 11:15:08,328 - DEBUG - Calculated distance: 17.2851162002589 km between (3.0889, 26.3225) and (3.2156, 26.4127).
+2024-11-24 11:15:08,329 - INFO - Recorded ISS data: {'timestamp': 1732443308, 'message': 'success', 'iss_position': {'latitude': '3.2156', 'longitude': '26.4127'}}
+2024-11-24 11:15:08,330 - INFO - Results saved to test_iss_results.json.
+2024-11-24 11:15:08,330 - INFO - Tracking complete.
+2024-11-24 11:15:08,332 - INFO - Starting ISS speed tracking.
+2024-11-24 11:15:30,888 - INFO - Starting ISS speed tracking.
+2024-11-24 11:15:30,893 - DEBUG - Starting new HTTP connection (1): api.open-notify.org:80
+2024-11-24 11:15:34,260 - DEBUG - http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 111
+2024-11-24 11:15:34,262 - INFO - API responded in 3.37 seconds.
+2024-11-24 11:15:34,262 - DEBUG - Received ISS position: latitude=4.5330, longitude=27.3520.
+2024-11-24 11:15:34,264 - INFO - Results saved to iss_speed_results.json.
+2024-11-24 11:15:35,272 - DEBUG - Starting new HTTP connection (1): api.open-notify.org:80
+2024-11-24 11:15:35,640 - DEBUG - http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 111
+2024-11-24 11:15:35,640 - INFO - API responded in 0.37 seconds.
+2024-11-24 11:15:35,640 - DEBUG - Received ISS position: latitude=4.6089, longitude=27.4064.
+2024-11-24 11:15:35,640 - DEBUG - Calculated distance: 10.372391553200632 km between (4.533, 27.352) and (4.6089, 27.4064).
+2024-11-24 11:15:35,641 - INFO - Current speed of ISS: 27101.23 km/h at 2024-11-24 10:15:35.
+2024-11-24 11:15:35,641 - INFO - Results saved to iss_speed_results.json.
+2024-11-24 11:15:36,646 - DEBUG - Starting new HTTP connection (1): api.open-notify.org:80
+2024-11-24 11:15:40,017 - DEBUG - http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 111
+2024-11-24 11:15:40,019 - INFO - API responded in 3.38 seconds.
+2024-11-24 11:15:40,019 - DEBUG - Received ISS position: latitude=4.8115, longitude=27.5512.
+2024-11-24 11:15:40,019 - DEBUG - Calculated distance: 27.65880685108919 km between (4.6089, 27.4064) and (4.8115, 27.5512).
+2024-11-24 11:15:40,020 - INFO - Current speed of ISS: 22738.50 km/h at 2024-11-24 10:15:40.
+2024-11-24 11:15:40,021 - INFO - Results saved to iss_speed_results.json.
+2024-11-24 11:15:41,030 - DEBUG - Starting new HTTP connection (1): api.open-notify.org:80
+2024-11-24 11:15:41,399 - DEBUG - http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 111
+2024-11-24 11:15:41,400 - INFO - API responded in 0.37 seconds.
+2024-11-24 11:15:41,400 - DEBUG - Received ISS position: latitude=4.8874, longitude=27.6056.
+2024-11-24 11:15:41,400 - DEBUG - Calculated distance: 10.370988166105796 km between (4.8115, 27.5512) and (4.8874, 27.6056).
+2024-11-24 11:15:41,400 - INFO - Current speed of ISS: 27044.54 km/h at 2024-11-24 10:15:41.
+2024-11-24 11:15:41,401 - INFO - Results saved to iss_speed_results.json.
+2024-11-24 11:15:42,406 - DEBUG - Starting new HTTP connection (1): api.open-notify.org:80
+2024-11-24 11:15:45,770 - DEBUG - http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 111
+2024-11-24 11:15:45,772 - INFO - API responded in 3.37 seconds.
+2024-11-24 11:15:45,772 - DEBUG - Received ISS position: latitude=5.1152, longitude=27.7687.
+2024-11-24 11:15:45,772 - DEBUG - Calculated distance: 31.11317509207957 km between (4.8874, 27.6056) and (5.1152, 27.7687).
+2024-11-24 11:15:45,772 - INFO - Current speed of ISS: 25620.75 km/h at 2024-11-24 10:15:45.
+2024-11-24 11:15:45,772 - INFO - Results saved to iss_speed_results.json.
+2024-11-24 11:15:46,779 - DEBUG - Starting new HTTP connection (1): api.open-notify.org:80
+2024-11-24 11:15:48,141 - DEBUG - http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 111
+2024-11-24 11:15:48,142 - INFO - API responded in 1.36 seconds.
+2024-11-24 11:15:48,142 - DEBUG - Received ISS position: latitude=5.2164, longitude=27.8413.
+2024-11-24 11:15:48,142 - DEBUG - Calculated distance: 13.83001591165913 km between (5.1152, 27.7687) and (5.2164, 27.8413).
+2024-11-24 11:15:48,142 - INFO - Current speed of ISS: 21001.63 km/h at 2024-11-24 10:15:48.
+2024-11-24 11:15:48,144 - INFO - Results saved to iss_speed_results.json.
+2024-11-24 11:15:49,152 - DEBUG - Starting new HTTP connection (1): api.open-notify.org:80
+2024-11-24 11:15:51,522 - DEBUG - http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 111
+2024-11-24 11:15:51,523 - INFO - API responded in 2.37 seconds.
+2024-11-24 11:15:51,523 - DEBUG - Received ISS position: latitude=5.3935, longitude=27.9683.
+2024-11-24 11:15:51,523 - DEBUG - Calculated distance: 24.19748834511891 km between (5.2164, 27.8413) and (5.3935, 27.9683).
+2024-11-24 11:15:51,523 - INFO - Current speed of ISS: 25765.17 km/h at 2024-11-24 10:15:51.
+2024-11-24 11:15:51,524 - INFO - Results saved to iss_speed_results.json.
+2024-11-24 11:15:52,533 - DEBUG - Starting new HTTP connection (1): api.open-notify.org:80
+2024-11-24 11:15:55,898 - DEBUG - http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 111
+2024-11-24 11:15:55,899 - INFO - API responded in 3.37 seconds.
+2024-11-24 11:15:55,899 - DEBUG - Received ISS position: latitude=5.6213, longitude=28.1318.
+2024-11-24 11:15:55,899 - DEBUG - Calculated distance: 31.130373900801718 km between (5.3935, 27.9683) and (5.6213, 28.1318).
+2024-11-24 11:15:55,899 - INFO - Current speed of ISS: 25609.32 km/h at 2024-11-24 10:15:55.
+2024-11-24 11:15:55,900 - INFO - Results saved to iss_speed_results.json.
+2024-11-24 11:15:56,904 - DEBUG - Starting new HTTP connection (1): api.open-notify.org:80
+2024-11-24 11:15:59,292 - DEBUG - http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 111
+2024-11-24 11:15:59,294 - INFO - API responded in 2.39 seconds.
+2024-11-24 11:15:59,295 - DEBUG - Received ISS position: latitude=5.7984, longitude=28.2590.
+2024-11-24 11:15:59,295 - DEBUG - Calculated distance: 24.204783803220945 km between (5.6213, 28.1318) and (5.7984, 28.259).
+2024-11-24 11:15:59,295 - INFO - Current speed of ISS: 25663.66 km/h at 2024-11-24 10:15:59.
+2024-11-24 11:15:59,296 - INFO - Results saved to iss_speed_results.json.
+2024-11-24 11:16:00,362 - DEBUG - Starting new HTTP connection (1): api.open-notify.org:80
+2024-11-24 11:16:00,759 - DEBUG - http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 111
+2024-11-24 11:16:00,759 - INFO - API responded in 0.45 seconds.
+2024-11-24 11:16:00,759 - DEBUG - Received ISS position: latitude=5.8743, longitude=28.3136.
+2024-11-24 11:16:00,759 - DEBUG - Calculated distance: 10.378212356856785 km between (5.7984, 28.259) and (5.8743, 28.3136).
+2024-11-24 11:16:00,759 - INFO - Current speed of ISS: 25510.31 km/h at 2024-11-24 10:16:00.
+2024-11-24 11:16:00,760 - INFO - Results saved to iss_speed_results.json.
+2024-11-24 11:16:01,765 - DEBUG - Starting new HTTP connection (1): api.open-notify.org:80
+2024-11-24 11:16:07,154 - DEBUG - http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 111
+2024-11-24 11:16:07,155 - INFO - API responded in 5.39 seconds.
+2024-11-24 11:16:07,155 - DEBUG - Received ISS position: latitude=6.1777, longitude=28.5319.
+2024-11-24 11:16:07,155 - DEBUG - Calculated distance: 41.48347907947672 km between (5.8743, 28.3136) and (6.1777, 28.5319).
+2024-11-24 11:16:07,155 - INFO - Current speed of ISS: 23349.76 km/h at 2024-11-24 10:16:07.
+2024-11-24 11:16:07,156 - INFO - Results saved to iss_speed_results.json.
+2024-11-24 11:16:07,156 - INFO - Tracking complete.
+2024-11-24 11:20:22,006 - ERROR - Error fetching ISS position: 
+2024-11-24 11:20:22,007 - ERROR - Error fetching ISS position: 
+2024-11-24 11:20:22,009 - INFO - API responded in 0.00 seconds.
+2024-11-24 11:20:22,010 - WARNING - API response does not contain valid ISS position data.
+2024-11-24 11:20:22,010 - INFO - API responded in 0.00 seconds.
+2024-11-24 11:20:22,010 - WARNING - API response does not contain valid ISS position data.
+2024-11-24 11:20:22,011 - INFO - API responded in 0.00 seconds.
+2024-11-24 11:20:22,011 - DEBUG - Received ISS position: latitude=47.6062, longitude=-122.3321.
+2024-11-24 11:20:36,601 - ERROR - Error fetching ISS position: 
+2024-11-24 11:20:36,602 - ERROR - Error fetching ISS position: 
+2024-11-24 11:20:36,604 - INFO - API responded in 0.00 seconds.
+2024-11-24 11:20:36,604 - WARNING - API response does not contain valid ISS position data.
+2024-11-24 11:20:36,605 - INFO - API responded in 0.00 seconds.
+2024-11-24 11:20:36,605 - WARNING - API response does not contain valid ISS position data.
+2024-11-24 11:20:36,605 - INFO - API responded in 0.00 seconds.
+2024-11-24 11:20:36,605 - DEBUG - Received ISS position: latitude=47.6062, longitude=-122.3321.
+2024-11-24 11:21:01,373 - INFO - Starting ISS speed tracking.
+2024-11-24 11:21:01,391 - DEBUG - Starting new HTTP connection (1): api.open-notify.org:80
+2024-11-24 11:21:03,756 - DEBUG - http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 112
+2024-11-24 11:21:03,757 - INFO - API responded in 2.38 seconds.
+2024-11-24 11:21:03,757 - DEBUG - Received ISS position: latitude=20.9126, longitude=39.9718.
+2024-11-24 11:21:03,759 - INFO - Results saved to iss_speed_results.json.
+2024-11-24 11:21:04,769 - DEBUG - Starting new HTTP connection (1): api.open-notify.org:80
+2024-11-24 11:21:05,136 - DEBUG - http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 112
+2024-11-24 11:21:05,138 - INFO - API responded in 0.37 seconds.
+2024-11-24 11:21:05,138 - DEBUG - Received ISS position: latitude=20.9610, longitude=40.0136.
+2024-11-24 11:21:05,138 - DEBUG - Calculated distance: 6.914406032852217 km between (20.9126, 39.9718) and (20.961, 40.0136).
+2024-11-24 11:21:05,138 - INFO - Recorded ISS data: {'timestamp': 1732443664, 'message': 'success', 'iss_position': {'latitude': '20.9610', 'longitude': '40.0136'}}
+2024-11-24 11:21:05,139 - INFO - Results saved to iss_speed_results.json.
+2024-11-24 11:21:06,156 - DEBUG - Starting new HTTP connection (1): api.open-notify.org:80
+2024-11-24 11:21:06,539 - DEBUG - http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 112
+2024-11-24 11:21:06,540 - INFO - API responded in 0.40 seconds.
+2024-11-24 11:21:06,540 - DEBUG - Received ISS position: latitude=21.0335, longitude=40.0764.
+2024-11-24 11:21:06,540 - DEBUG - Calculated distance: 10.367827179483802 km between (20.961, 40.0136) and (21.0335, 40.0764).
+2024-11-24 11:21:06,540 - INFO - Recorded ISS data: {'timestamp': 1732443666, 'message': 'success', 'iss_position': {'latitude': '21.0335', 'longitude': '40.0764'}}
+2024-11-24 11:21:06,541 - INFO - Results saved to iss_speed_results.json.
+2024-11-24 11:21:07,548 - DEBUG - Starting new HTTP connection (1): api.open-notify.org:80
+2024-11-24 11:21:09,916 - DEBUG - http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 112
+2024-11-24 11:21:09,916 - INFO - API responded in 2.37 seconds.
+2024-11-24 11:21:09,916 - DEBUG - Received ISS position: latitude=21.2026, longitude=40.2233.
+2024-11-24 11:21:09,916 - DEBUG - Calculated distance: 24.201994824083 km between (21.0335, 40.0764) and (21.2026, 40.2233).
+2024-11-24 11:21:09,916 - INFO - Recorded ISS data: {'timestamp': 1732443669, 'message': 'success', 'iss_position': {'latitude': '21.2026', 'longitude': '40.2233'}}
+2024-11-24 11:21:09,917 - INFO - Results saved to iss_speed_results.json.
+2024-11-24 11:21:10,923 - DEBUG - Starting new HTTP connection (1): api.open-notify.org:80
+2024-11-24 11:21:11,287 - DEBUG - http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 112
+2024-11-24 11:21:11,287 - INFO - API responded in 0.37 seconds.
+2024-11-24 11:21:11,287 - DEBUG - Received ISS position: latitude=21.2750, longitude=40.2863.
+2024-11-24 11:21:11,287 - DEBUG - Calculated distance: 10.365556354112883 km between (21.2026, 40.2233) and (21.275, 40.2863).
+2024-11-24 11:21:11,287 - INFO - Recorded ISS data: {'timestamp': 1732443671, 'message': 'success', 'iss_position': {'latitude': '21.2750', 'longitude': '40.2863'}}
+2024-11-24 11:21:11,288 - INFO - Results saved to iss_speed_results.json.
+2024-11-24 11:21:12,296 - DEBUG - Starting new HTTP connection (1): api.open-notify.org:80
+2024-11-24 11:21:12,658 - DEBUG - http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 112
+2024-11-24 11:21:12,658 - INFO - API responded in 0.37 seconds.
+2024-11-24 11:21:12,659 - DEBUG - Received ISS position: latitude=21.3233, longitude=40.3284.
+2024-11-24 11:21:12,659 - DEBUG - Calculated distance: 6.918653038176869 km between (21.275, 40.2863) and (21.3233, 40.3284).
+2024-11-24 11:21:12,659 - INFO - Recorded ISS data: {'timestamp': 1732443672, 'message': 'success', 'iss_position': {'latitude': '21.3233', 'longitude': '40.3284'}}
+2024-11-24 11:21:12,659 - INFO - Results saved to iss_speed_results.json.
+2024-11-24 11:21:13,662 - DEBUG - Starting new HTTP connection (1): api.open-notify.org:80
+2024-11-24 11:21:17,029 - DEBUG - http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 112
+2024-11-24 11:21:17,032 - INFO - API responded in 3.37 seconds.
+2024-11-24 11:21:17,032 - DEBUG - Received ISS position: latitude=21.5404, longitude=40.5180.
+2024-11-24 11:21:17,032 - DEBUG - Calculated distance: 31.110934706393337 km between (21.3233, 40.3284) and (21.5404, 40.518).
+2024-11-24 11:21:17,033 - INFO - Recorded ISS data: {'timestamp': 1732443676, 'message': 'success', 'iss_position': {'latitude': '21.5404', 'longitude': '40.5180'}}
+2024-11-24 11:21:17,033 - INFO - Results saved to iss_speed_results.json.
+2024-11-24 11:21:18,044 - DEBUG - Starting new HTTP connection (1): api.open-notify.org:80
+2024-11-24 11:21:18,406 - DEBUG - http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 112
+2024-11-24 11:21:18,408 - INFO - API responded in 0.37 seconds.
+2024-11-24 11:21:18,408 - DEBUG - Received ISS position: latitude=21.6127, longitude=40.5814.
+2024-11-24 11:21:18,408 - DEBUG - Calculated distance: 10.373516197395956 km between (21.5404, 40.518) and (21.6127, 40.5814).
+2024-11-24 11:21:18,408 - INFO - Recorded ISS data: {'timestamp': 1732443678, 'message': 'success', 'iss_position': {'latitude': '21.6127', 'longitude': '40.5814'}}
+2024-11-24 11:21:18,409 - INFO - Results saved to iss_speed_results.json.
+2024-11-24 11:21:19,460 - DEBUG - Starting new HTTP connection (1): api.open-notify.org:80
+2024-11-24 11:21:19,830 - DEBUG - http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 112
+2024-11-24 11:21:19,831 - INFO - API responded in 0.42 seconds.
+2024-11-24 11:21:19,832 - DEBUG - Received ISS position: latitude=21.6850, longitude=40.6448.
+2024-11-24 11:21:19,832 - DEBUG - Calculated distance: 10.371445771050725 km between (21.6127, 40.5814) and (21.685, 40.6448).
+2024-11-24 11:21:19,832 - INFO - Recorded ISS data: {'timestamp': 1732443679, 'message': 'success', 'iss_position': {'latitude': '21.6850', 'longitude': '40.6448'}}
+2024-11-24 11:21:19,833 - INFO - Results saved to iss_speed_results.json.
+2024-11-24 11:21:20,842 - DEBUG - Starting new HTTP connection (1): api.open-notify.org:80
+2024-11-24 11:21:23,226 - DEBUG - http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 112
+2024-11-24 11:21:23,228 - INFO - API responded in 2.39 seconds.
+2024-11-24 11:21:23,228 - DEBUG - Received ISS position: latitude=21.8295, longitude=40.7719.
+2024-11-24 11:21:23,228 - DEBUG - Calculated distance: 20.74762460603383 km between (21.685, 40.6448) and (21.8295, 40.7719).
+2024-11-24 11:21:23,228 - INFO - Recorded ISS data: {'timestamp': 1732443682, 'message': 'success', 'iss_position': {'latitude': '21.8295', 'longitude': '40.7719'}}
+2024-11-24 11:21:23,228 - INFO - Results saved to iss_speed_results.json.
+2024-11-24 11:21:24,235 - DEBUG - Starting new HTTP connection (1): api.open-notify.org:80
+2024-11-24 11:21:24,597 - DEBUG - http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 112
+2024-11-24 11:21:24,597 - INFO - API responded in 0.36 seconds.
+2024-11-24 11:21:24,597 - DEBUG - Received ISS position: latitude=21.9017, longitude=40.8356.
+2024-11-24 11:21:24,598 - DEBUG - Calculated distance: 10.376166388060298 km between (21.8295, 40.7719) and (21.9017, 40.8356).
+2024-11-24 11:21:24,598 - INFO - Recorded ISS data: {'timestamp': 1732443684, 'message': 'success', 'iss_position': {'latitude': '21.9017', 'longitude': '40.8356'}}
+2024-11-24 11:21:24,598 - INFO - Results saved to iss_speed_results.json.
+2024-11-24 11:21:25,603 - DEBUG - Starting new HTTP connection (1): api.open-notify.org:80
+2024-11-24 11:21:27,967 - DEBUG - http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 112
+2024-11-24 11:21:27,968 - INFO - API responded in 2.37 seconds.
+2024-11-24 11:21:27,968 - DEBUG - Received ISS position: latitude=22.0700, longitude=40.9843.
+2024-11-24 11:21:27,968 - DEBUG - Calculated distance: 24.19286162135327 km between (21.9017, 40.8356) and (22.07, 40.9843).
+2024-11-24 11:21:27,968 - INFO - Recorded ISS data: {'timestamp': 1732443687, 'message': 'success', 'iss_position': {'latitude': '22.0700', 'longitude': '40.9843'}}
+2024-11-24 11:21:27,968 - INFO - Results saved to iss_speed_results.json.
+2024-11-24 11:21:28,979 - DEBUG - Starting new HTTP connection (1): api.open-notify.org:80
+2024-11-24 11:21:29,341 - DEBUG - http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 112
+2024-11-24 11:21:29,341 - INFO - API responded in 0.37 seconds.
+2024-11-24 11:21:29,341 - DEBUG - Received ISS position: latitude=22.1422, longitude=41.0483.
+2024-11-24 11:21:29,342 - DEBUG - Calculated distance: 10.38870588357952 km between (22.07, 40.9843) and (22.1422, 41.0483).
+2024-11-24 11:21:29,342 - INFO - Recorded ISS data: {'timestamp': 1732443689, 'message': 'success', 'iss_position': {'latitude': '22.1422', 'longitude': '41.0483'}}
+2024-11-24 11:21:29,342 - INFO - Results saved to iss_speed_results.json.
+2024-11-24 11:21:30,348 - DEBUG - Starting new HTTP connection (1): api.open-notify.org:80
+2024-11-24 11:21:30,711 - DEBUG - http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 112
+2024-11-24 11:21:30,711 - INFO - API responded in 0.36 seconds.
+2024-11-24 11:21:30,711 - DEBUG - Received ISS position: latitude=22.1902, longitude=41.0910.
+2024-11-24 11:21:30,711 - DEBUG - Calculated distance: 6.915343279307907 km between (22.1422, 41.0483) and (22.1902, 41.091).
+2024-11-24 11:21:30,711 - INFO - Recorded ISS data: {'timestamp': 1732443690, 'message': 'success', 'iss_position': {'latitude': '22.1902', 'longitude': '41.0910'}}
+2024-11-24 11:21:30,712 - INFO - Results saved to iss_speed_results.json.
+2024-11-24 11:21:31,718 - DEBUG - Starting new HTTP connection (1): api.open-notify.org:80
+2024-11-24 11:21:32,108 - DEBUG - http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 112
+2024-11-24 11:21:32,109 - INFO - API responded in 0.39 seconds.
+2024-11-24 11:21:32,109 - DEBUG - Received ISS position: latitude=22.2623, longitude=41.1549.
+2024-11-24 11:21:32,109 - DEBUG - Calculated distance: 10.370007957114899 km between (22.1902, 41.091) and (22.2623, 41.1549).
+2024-11-24 11:21:32,109 - INFO - Recorded ISS data: {'timestamp': 1732443691, 'message': 'success', 'iss_position': {'latitude': '22.2623', 'longitude': '41.1549'}}
+2024-11-24 11:21:32,109 - INFO - Results saved to iss_speed_results.json.
+2024-11-24 11:21:33,145 - DEBUG - Starting new HTTP connection (1): api.open-notify.org:80
+2024-11-24 11:21:37,530 - DEBUG - http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 112
+2024-11-24 11:21:37,532 - INFO - API responded in 4.42 seconds.
+2024-11-24 11:21:37,532 - DEBUG - Received ISS position: latitude=22.5261, longitude=41.3902.
+2024-11-24 11:21:37,532 - DEBUG - Calculated distance: 38.02157258475342 km between (22.2623, 41.1549) and (22.5261, 41.3902).
+2024-11-24 11:21:37,532 - INFO - Recorded ISS data: {'timestamp': 1732443697, 'message': 'success', 'iss_position': {'latitude': '22.5261', 'longitude': '41.3902'}}
+2024-11-24 11:21:37,534 - INFO - Results saved to iss_speed_results.json.
+2024-11-24 11:21:37,534 - INFO - Tracking complete.
+2024-11-24 11:21:37,756 - ERROR - Error fetching ISS position: 
+2024-11-24 11:21:37,756 - ERROR - Error fetching ISS position: 
+2024-11-24 11:21:37,759 - INFO - API responded in 0.00 seconds.
+2024-11-24 11:21:37,759 - WARNING - API response does not contain valid ISS position data.
+2024-11-24 11:21:37,760 - INFO - API responded in 0.00 seconds.
+2024-11-24 11:21:37,760 - WARNING - API response does not contain valid ISS position data.
+2024-11-24 11:21:37,761 - INFO - API responded in 0.00 seconds.
+2024-11-24 11:21:37,761 - DEBUG - Received ISS position: latitude=47.6062, longitude=-122.3321.
+2024-11-24 11:21:45,158 - ERROR - Error fetching ISS position: 
+2024-11-24 11:21:45,158 - ERROR - Error fetching ISS position: 
+2024-11-24 11:21:45,160 - INFO - API responded in 0.00 seconds.
+2024-11-24 11:21:45,160 - WARNING - API response does not contain valid ISS position data.
+2024-11-24 11:21:45,161 - INFO - API responded in 0.00 seconds.
+2024-11-24 11:21:45,161 - WARNING - API response does not contain valid ISS position data.
+2024-11-24 11:21:45,161 - INFO - API responded in 0.00 seconds.
+2024-11-24 11:21:45,161 - DEBUG - Received ISS position: latitude=47.6062, longitude=-122.3321.
+2024-11-24 11:22:22,756 - ERROR - Error fetching ISS position: 
+2024-11-24 11:22:22,757 - ERROR - Error fetching ISS position: 
+2024-11-24 11:22:22,759 - INFO - API responded in 0.00 seconds.
+2024-11-24 11:22:22,759 - WARNING - API response does not contain valid ISS position data.
+2024-11-24 11:22:22,760 - INFO - API responded in 0.00 seconds.
+2024-11-24 11:22:22,760 - WARNING - API response does not contain valid ISS position data.
+2024-11-24 11:22:22,761 - INFO - API responded in 0.00 seconds.
+2024-11-24 11:22:22,761 - DEBUG - Received ISS position: latitude=47.6062, longitude=-122.3321.
+2024-11-24 11:28:29,901 - INFO - Starting ISS speed tracking.
+2024-11-24 11:28:29,908 - DEBUG - Starting new HTTP connection (1): api.open-notify.org:80
+2024-11-24 11:28:30,280 - DEBUG - http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 112
+2024-11-24 11:28:30,280 - INFO - API responded in 0.38 seconds.
+2024-11-24 11:28:30,280 - DEBUG - Received ISS position: latitude=40.4922, longitude=63.0160.
+2024-11-24 11:28:30,282 - INFO - Results saved to iss_speed_results.json.
+2024-11-24 11:28:31,289 - DEBUG - Starting new HTTP connection (1): api.open-notify.org:80
+2024-11-24 11:28:34,660 - DEBUG - http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 112
+2024-11-24 11:28:34,661 - INFO - API responded in 3.37 seconds.
+2024-11-24 11:28:34,662 - DEBUG - Received ISS position: latitude=40.6600, longitude=63.3104.
+2024-11-24 11:28:34,662 - DEBUG - Calculated distance: 31.086456416863165 km between (40.4922, 63.016) and (40.66, 63.3104).
+2024-11-24 11:28:34,662 - INFO - Recorded ISS data: {'timestamp': 1732444114, 'message': 'success', 'iss_position': {'latitude': '40.6600', 'longitude': '63.3104'}}
+2024-11-24 11:28:34,663 - INFO - Results saved to iss_speed_results.json.
+2024-11-24 11:28:35,668 - DEBUG - Starting new HTTP connection (1): api.open-notify.org:80
+2024-11-24 11:28:40,040 - DEBUG - http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 112
+2024-11-24 11:28:40,042 - INFO - API responded in 4.38 seconds.
+2024-11-24 11:28:40,042 - DEBUG - Received ISS position: latitude=40.8639, longitude=63.6724.
+2024-11-24 11:28:40,043 - DEBUG - Calculated distance: 37.99460569868497 km between (40.66, 63.3104) and (40.8639, 63.6724).
+2024-11-24 11:28:40,043 - INFO - Recorded ISS data: {'timestamp': 1732444119, 'message': 'success', 'iss_position': {'latitude': '40.8639', 'longitude': '63.6724'}}
+2024-11-24 11:28:40,044 - INFO - Results saved to iss_speed_results.json.
+2024-11-24 11:28:41,053 - DEBUG - Starting new HTTP connection (1): api.open-notify.org:80
+2024-11-24 11:28:43,432 - DEBUG - http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 112
+2024-11-24 11:28:43,433 - INFO - API responded in 2.38 seconds.
+2024-11-24 11:28:43,433 - DEBUG - Received ISS position: latitude=40.9746, longitude=63.8708.
+2024-11-24 11:28:43,433 - DEBUG - Calculated distance: 20.722202309370036 km between (40.8639, 63.6724) and (40.9746, 63.8708).
+2024-11-24 11:28:43,433 - INFO - Recorded ISS data: {'timestamp': 1732444122, 'message': 'success', 'iss_position': {'latitude': '40.9746', 'longitude': '63.8708'}}
+2024-11-24 11:28:43,434 - INFO - Results saved to iss_speed_results.json.
+2024-11-24 11:28:44,438 - DEBUG - Starting new HTTP connection (1): api.open-notify.org:80
+2024-11-24 11:28:44,828 - DEBUG - http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 112
+2024-11-24 11:28:44,829 - INFO - API responded in 0.39 seconds.
+2024-11-24 11:28:44,829 - DEBUG - Received ISS position: latitude=41.0299, longitude=63.9704.
+2024-11-24 11:28:44,829 - DEBUG - Calculated distance: 10.376394489161576 km between (40.9746, 63.8708) and (41.0299, 63.9704).
+2024-11-24 11:28:44,829 - INFO - Recorded ISS data: {'timestamp': 1732444124, 'message': 'success', 'iss_position': {'latitude': '41.0299', 'longitude': '63.9704'}}
+2024-11-24 11:28:44,830 - INFO - Results saved to iss_speed_results.json.
+2024-11-24 11:28:45,835 - DEBUG - Starting new HTTP connection (1): api.open-notify.org:80
+2024-11-24 11:28:46,201 - DEBUG - http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 112
+2024-11-24 11:28:46,203 - INFO - API responded in 0.37 seconds.
+2024-11-24 11:28:46,203 - DEBUG - Received ISS position: latitude=41.0850, longitude=64.0701.
+2024-11-24 11:28:46,204 - DEBUG - Calculated distance: 10.364344427186294 km between (41.0299, 63.9704) and (41.085, 64.0701).
+2024-11-24 11:28:46,204 - INFO - Recorded ISS data: {'timestamp': 1732444125, 'message': 'success', 'iss_position': {'latitude': '41.0850', 'longitude': '64.0701'}}
+2024-11-24 11:28:46,205 - INFO - Results saved to iss_speed_results.json.
+2024-11-24 11:28:47,211 - DEBUG - Starting new HTTP connection (1): api.open-notify.org:80
+2024-11-24 11:28:50,582 - DEBUG - http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 112
+2024-11-24 11:28:50,582 - INFO - API responded in 3.38 seconds.
+2024-11-24 11:28:50,583 - DEBUG - Received ISS position: latitude=41.2497, longitude=64.3702.
+2024-11-24 11:28:50,583 - DEBUG - Calculated distance: 31.087345474144573 km between (41.085, 64.0701) and (41.2497, 64.3702).
+2024-11-24 11:28:50,583 - INFO - Recorded ISS data: {'timestamp': 1732444130, 'message': 'success', 'iss_position': {'latitude': '41.2497', 'longitude': '64.3702'}}
+2024-11-24 11:28:50,583 - INFO - Results saved to iss_speed_results.json.
+2024-11-24 11:28:51,585 - DEBUG - Starting new HTTP connection (1): api.open-notify.org:80
+2024-11-24 11:28:51,953 - DEBUG - http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 112
+2024-11-24 11:28:51,955 - INFO - API responded in 0.37 seconds.
+2024-11-24 11:28:51,955 - DEBUG - Received ISS position: latitude=41.2862, longitude=64.4370.
+2024-11-24 11:28:51,955 - DEBUG - Calculated distance: 6.902333274990817 km between (41.2497, 64.3702) and (41.2862, 64.437).
+2024-11-24 11:28:51,955 - INFO - Recorded ISS data: {'timestamp': 1732444131, 'message': 'success', 'iss_position': {'latitude': '41.2862', 'longitude': '64.4370'}}
+2024-11-24 11:28:51,956 - INFO - Results saved to iss_speed_results.json.
+2024-11-24 11:28:52,966 - DEBUG - Starting new HTTP connection (1): api.open-notify.org:80
+2024-11-24 11:28:57,333 - DEBUG - http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 112
+2024-11-24 11:28:57,335 - INFO - API responded in 4.37 seconds.
+2024-11-24 11:28:57,335 - DEBUG - Received ISS position: latitude=41.4861, longitude=64.8065.
+2024-11-24 11:28:57,335 - DEBUG - Calculated distance: 38.00417297998967 km between (41.2862, 64.437) and (41.4861, 64.8065).
+2024-11-24 11:28:57,335 - INFO - Recorded ISS data: {'timestamp': 1732444137, 'message': 'success', 'iss_position': {'latitude': '41.4861', 'longitude': '64.8065'}}
+2024-11-24 11:28:57,337 - INFO - Results saved to iss_speed_results.json.
+2024-11-24 11:28:58,347 - DEBUG - Starting new HTTP connection (1): api.open-notify.org:80
+2024-11-24 11:28:58,728 - DEBUG - http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 112
+2024-11-24 11:28:58,729 - INFO - API responded in 0.39 seconds.
+2024-11-24 11:28:58,729 - DEBUG - Received ISS position: latitude=41.5404, longitude=64.9076.
+2024-11-24 11:28:58,729 - DEBUG - Calculated distance: 10.359389164970606 km between (41.4861, 64.8065) and (41.5404, 64.9076).
+2024-11-24 11:28:58,729 - INFO - Recorded ISS data: {'timestamp': 1732444138, 'message': 'success', 'iss_position': {'latitude': '41.5404', 'longitude': '64.9076'}}
+2024-11-24 11:28:58,729 - INFO - Results saved to iss_speed_results.json.
+2024-11-24 11:28:59,738 - DEBUG - Starting new HTTP connection (1): api.open-notify.org:80
+2024-11-24 11:29:04,120 - DEBUG - http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 112
+2024-11-24 11:29:04,121 - INFO - API responded in 4.39 seconds.
+2024-11-24 11:29:04,121 - DEBUG - Received ISS position: latitude=41.7387, longitude=65.2802.
+2024-11-24 11:29:04,122 - DEBUG - Calculated distance: 38.01204372070188 km between (41.5404, 64.9076) and (41.7387, 65.2802).
+2024-11-24 11:29:04,122 - INFO - Recorded ISS data: {'timestamp': 1732444144, 'message': 'success', 'iss_position': {'latitude': '41.7387', 'longitude': '65.2802'}}
+2024-11-24 11:29:04,122 - INFO - Results saved to iss_speed_results.json.
+2024-11-24 11:29:04,122 - INFO - Tracking complete.
+2024-11-24 11:30:42,731 - ERROR - Error fetching ISS position: 
+2024-11-24 11:30:42,732 - ERROR - Error fetching ISS position: 
+2024-11-24 11:30:42,734 - INFO - API responded in 0.00 seconds.
+2024-11-24 11:30:42,734 - WARNING - API response does not contain valid ISS position data.
+2024-11-24 11:30:42,735 - INFO - API responded in 0.00 seconds.
+2024-11-24 11:30:42,735 - WARNING - API response does not contain valid ISS position data.
+2024-11-24 11:30:42,735 - INFO - API responded in 0.00 seconds.
+2024-11-24 11:30:42,735 - DEBUG - Received ISS position: latitude=47.6062, longitude=-122.3321.
+2024-11-24 11:33:35,203 - ERROR - Error fetching ISS position: 
+2024-11-24 11:33:35,210 - ERROR - Error fetching ISS position: 
+2024-11-24 11:33:35,211 - INFO - API responded in 0.00 seconds.
+2024-11-24 11:33:35,211 - WARNING - API response does not contain valid ISS position data.
+2024-11-24 11:33:35,212 - INFO - API responded in 0.00 seconds.
+2024-11-24 11:33:35,212 - WARNING - API response does not contain valid ISS position data.
+2024-11-24 11:33:35,213 - INFO - API responded in 0.00 seconds.
+2024-11-24 11:33:35,213 - DEBUG - Received ISS position: latitude=47.6062, longitude=-122.3321.
+2024-11-24 11:33:43,209 - ERROR - Error fetching ISS position: Network is unreachable
+2024-11-24 11:33:43,211 - INFO - API responded in 0.00 seconds.
+2024-11-24 11:33:43,211 - DEBUG - Received ISS position: latitude=48.4406, longitude=-87.2757.
+2024-11-24 11:37:41,296 - ERROR - Error fetching ISS position: Network is unreachable
+2024-11-24 11:37:41,298 - INFO - API responded in 0.00 seconds.
+2024-11-24 11:37:41,298 - DEBUG - Received ISS position: latitude=48.4406, longitude=-87.2757.
+2024-11-24 11:37:41,298 - INFO - API responded in 0.00 seconds.
+2024-11-24 11:37:41,298 - DEBUG - Received ISS position: latitude=48.4410, longitude=-87.2750.
+2024-11-24 11:39:21,506 - ERROR - Error fetching ISS position: Network is unreachable
+2024-11-24 11:39:21,507 - INFO - API responded in 0.00 seconds.
+2024-11-24 11:39:21,507 - DEBUG - Received ISS position: latitude=48.4406, longitude=-87.2757.
+2024-11-24 11:39:21,507 - INFO - API responded in 0.00 seconds.
+2024-11-24 11:39:21,507 - DEBUG - Received ISS position: latitude=48.4410, longitude=-87.2750.
+2024-11-24 11:44:09,412 - ERROR - Error fetching ISS position: Network is unreachable
+2024-11-24 11:44:09,413 - INFO - API responded in 0.00 seconds.
+2024-11-24 11:44:09,413 - DEBUG - Received ISS position: latitude=48.4406, longitude=-87.2757.
+2024-11-24 11:44:09,413 - INFO - API responded in 0.00 seconds.
+2024-11-24 11:44:09,413 - DEBUG - Received ISS position: latitude=48.4410, longitude=-87.2750.
+2024-11-24 12:08:22,632 - ERROR - Error fetching ISS position: Network is unreachable
+2024-11-24 12:08:22,636 - INFO - API responded in 0.00 seconds.
+2024-11-24 12:08:22,636 - DEBUG - Received ISS position: latitude=48.4406, longitude=-87.2757.
+2024-11-24 12:08:22,636 - INFO - API responded in 0.00 seconds.
+2024-11-24 12:08:22,637 - DEBUG - Received ISS position: latitude=48.4410, longitude=-87.2750.
+2024-11-24 12:09:56,452 - ERROR - Error fetching ISS position: Network is unreachable
+2024-11-24 12:09:56,453 - INFO - API responded in 0.00 seconds.
+2024-11-24 12:09:56,453 - DEBUG - Received ISS position: latitude=48.4406, longitude=-87.2757.
+2024-11-24 12:09:56,453 - INFO - API responded in 0.00 seconds.
+2024-11-24 12:09:56,453 - DEBUG - Received ISS position: latitude=48.4410, longitude=-87.2750.
